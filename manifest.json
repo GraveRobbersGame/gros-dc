@@ -1,0 +1,17 @@
+{
+    "name": "Grave Robbers From Outer Space: Director's Cut!",
+    "short": "GROS Director's Cut!",
+    "year": "2023",
+    "sigil": "gros-dc",
+    "type": "official",
+    "description" : "The new edition of Grave Robbers From Outer Space, with Popcorn, deck building, and Plot Twists.",
+    
+    "list": "list.json",
+    "packs": "packs.json",
+    "frames": "frames.json",
+    "cover": "cover.jpeg",
+    "art": "/art/",
+    "thumb": "/thumb/",
+    "link" : "https://shop.arghacademy.org/products/grave-robbers-from-outer-space-directors-cut",
+    "link_text": "Get it at the ARGH Shop"
+}

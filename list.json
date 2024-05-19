@@ -1,0 +1,3111 @@
+[
+    {
+        "type": "character",
+        "name": "Mom",
+        "traits": [
+            "Female",
+            "Family"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Come here, baby. Momma's gonna make it all better...\"",
+        "abilities": "Gains +1 from each 'Young' or 'Family' Character cast in the same Movie. May be played as a 'Psycho' attack with an Attack = 8 + 1 for each 'Young' Character in the target Movie.",
+        "title": "House",
+        "number": "01-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "01-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Big Sister",
+        "traits": [
+            "Female",
+            "Family",
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Because mom left ME in charge, that's why! Now where's the machete?\"",
+        "abilities": "Gains +2 Defense for each 'Young' 'Family' Character cast in the same Movie.",
+        "title": "Sibling",
+        "number": "01-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Annoying Little Brother",
+        "traits": [
+            "Male",
+            "Young",
+            "Family",
+            "Virgin"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"You better take me with you, or I'm telling mom you're a bloodsucking vampire!\"",
+        "abilities": "May not use 'Guns'. May not be the target of Creature attacks.",
+        "title": "Annoying",
+        "number": "01-03",
+        "mechanic": "Steve Tassie",
+        "prior": "gros-re 001",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "01-03.jpeg",
+        "artist": "Leo Lingas"
+    },
+    {
+        "type": "character",
+        "name": "Grampa",
+        "traits": [
+            "Male",
+            "Old",
+            "Family"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"What'd I tell you kids about playing with dead things? AFTER homework!\"",
+        "abilities": "Once per attack against your Movie — If there is a 'Young' Character in your Movie, you may pay 3 Popcorn to stop the attack.",
+        "title": "Ancient",
+        "number": "01-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Council of Deranged Fascists",
+        "traits": [
+            "Psycho"
+        ],
+        "stat": "15",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"For the greater good.\" \"The greater gooood.\"",
+        "abilities": "'Psycho' — Any Player may play 'Weapon' Props to boost the Fascists' attack for free.\n\nAttack = 20 when attacking a 'Neighborhood' Location.",
+        "title": "Vs.",
+        "number": "01-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "01-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Killer Toys",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "7",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"It's a DOLL! Just kick it into the closet and close the door!\" \"We can do that?\"",
+        "abilities": "If the Toys fail, they return to their Controller's hand. They may not be used again this turn.",
+        "title": "Minions",
+        "number": "01-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Lovers' Lane",
+        "traits": [
+            "Natural",
+            "Aquatic"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"Looks like a parking lot. Since the bowling alley shut down there really isn't anything else to do in this town.\"",
+        "abilities": "'Psycho' attacks always succeed at Lovers' Lane.",
+        "title": "Unrequited",
+        "number": "01-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "01-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Trailer Park",
+        "traits": [
+            "Natural",
+            "Neighborhood"
+        ],
+        "stat": "4",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Why are we trying to save these people again?\"",
+        "abilities": "All 'Family' Characters in this Location gain +1 Defense.",
+        "title": "Cult",
+        "number": "01-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Comic Books",
+        "traits": [
+            "Book"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"This is just like the time Captain Piñata fought the Zombie Queen!\"",
+        "abilities": "Pay 2 Popcorn — If on a 'Young' Character, stop a 'Supernatural' or 'Monster' attack made against your Movie.",
+        "title": "Hero",
+        "number": "01-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Ouija Board",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Come in Elvis! Are you there, Elvis?\"",
+        "abilities": "Pay 3 Popcorn — Stop a 'Supernatural' attack made against your Movie.",
+        "title": "Premonition",
+        "number": "01-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "01-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Ha! Ha! Scared Ya!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"You should see the look on your face...\"",
+        "abilities": "Stop one Creature attack. The Creature is returned to the attacking Player's hand and that Player may not make any more Creature attacks that turn.",
+        "title": "Darkness",
+        "number": "01-11",
+        "mechanic": "Steve Tassie",
+        "art": "01-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Scream Queen",
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"You're not scared are you?\" \"Trust me, if I was afraid, you'd hear all about it.\"",
+        "abilities": "Attach to a 'Female' Character. \nPay 3 Popcorn — Stop an attack made against your Movie.",
+        "title": "Shriek",
+        "number": "01-12",
+        "mechanic": "Steve Tassie",
+        "art": "01-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Cat in the Closet",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"They even managed to pull this in Alien.\"",
+        "abilities": "Stop any card as it is being played. It is discarded. This cannot stop a Plot Twist or Roll the Credits.",
+        "title": "Surprise",
+        "number": "01-13",
+        "mechanic": "Steve Tassie",
+        "art": "01-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And Their Family Was\nCursed For Generations...",
+        "traits": [],
+        "stat": "7",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"...upon your father's, father's, father's head!\"",
+        "abilities": "Starting next turn, when you have at least 2 'Family' Characters in your Movie, you may reveal this Twist. Attach it to the 'Family' member with the lowest Defense. At the end of each of your turns, whoever has the Curse dies. When its bearer dies, the Curse attaches to the next lowest. If the Curse, itself, has killed at least 2 'Family' Characters, and there are none left, Bank it. Otherwise discard it.",
+        "title": "Curse",
+        "number": "01-14",
+        "mechanic": "Steve Caruso",
+        "art": "01-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And We Learn the Sins\nof the Father!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"D-dad...? Is that you?\"",
+        "abilities": "Play with a Creature face-down under it. If there is at least one 'Family' Character in your Movie and it is attacked, you may choose to bank this Twist. If you do so, reveal the Creature and add its Attack to your Movie's Defense for the duration of the attack. Afterwards the Creature returns to your hand.",
+        "title": "Father",
+        "number": "01-15",
+        "mechanic": "Steve Caruso",
+        "art": "01-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (1)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well we managed to escape the house of horror, so it must be over!\"",
+        "abilities": "",
+        "title": "Family",
+        "number": "01-16",
+        "mechanic": "Steve Caruso",
+        "art": "01-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "High School Vice Principal",
+        "traits": [
+            "Male",
+            "Old",
+            "Smart"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"I've had just about enough of your antics, Billy... say is that a tentacle?\"",
+        "abilities": "'Unlucky' in any 'School' (if there is a choice of Characters to die in his Movie, he must be chosen first).",
+        "title": "Heathen",
+        "number": "02-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "02-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Bookish Girl With No Boyfriend",
+        "traits": [
+            "Female",
+            "Smart",
+            "Young",
+            "Virgin"
+        ],
+        "stat": "5",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"No, that's okay, you guys go skinny dipping. I'll just stay here and read...\"",
+        "abilities": "Gets +2 Defense from each 'Book' Prop she has.",
+        "title": "Virgin",
+        "number": "02-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Prom Queen",
+        "traits": [
+            "Female",
+            "Young",
+            "Dumb"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The pig's blood really brings out her eyes.\"",
+        "abilities": "Prom Queen cannot be targeted by a Creature attack unless she is in a 'School'.",
+        "title": "Slasher",
+        "number": "02-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "The Gym Teacher",
+        "traits": [
+            "Special"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Everyone knows you don't become a gym teacher unless Satan tells you to.\"",
+        "abilities": "Attacker must declare whether the Gym Teacher is 'Alien' or 'Psycho' when played. Always succeeds when attacking a 'School'.",
+        "title": "Pain",
+        "number": "02-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Teenaged Wolfman",
+        "traits": [
+            "Supernatural",
+            "Monster"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Boys, when they hit a certain age, start experiencing... changes.\"",
+        "abilities": "Always succeeds in 'Neighborhood' Locations.",
+        "title": "Wolf",
+        "number": "02-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Evil Robot",
+        "traits": [
+            "Psycho"
+        ],
+        "stat": "14",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"FUMIGATE! FUMIGATE!\" \"Don't you mean 'exterminate'?\" \"WHATEVER!\"",
+        "abilities": "Psycho — Any Player may play 'Weapon' Props to boost the Robot's Attack for free.\n\nCannot attack 'Aquatic' Locations.",
+        "title": "Mechanical",
+        "number": "02-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "02-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "High School",
+        "traits": [
+            "Building",
+            "School",
+            "Scientific",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"I'm not going back there! That place is full of mutants and monsters!\" \"But darling, you have to. You're the principal.\"",
+        "abilities": "Defense = 5 if you have cast the \"High School Vice Principal\".",
+        "title": "Orgy",
+        "number": "02-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Back Seat of the Car",
+        "traits": [
+            "Vehicle",
+            "Neighborhood"
+        ],
+        "stat": "-5",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Billy, noooo. Stop it... Well okay, just this once... Say, is that a tentacle?\"",
+        "abilities": "",
+        "title": "Boyfriend",
+        "number": "02-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "02-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Spell Book",
+        "traits": [
+            "Book",
+            "Supernatural"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Why is it always Latin?\"",
+        "abilities": "Pay 2 Popcorn — If on a 'Smart' Character, stop a 'Supernatural' attack made against your Movie.",
+        "title": "Demon",
+        "number": "02-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "02-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Book of the Dead",
+        "traits": [
+            "Book"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Klaatu! Berada!... Necktie...\"",
+        "abilities": "'Zombie' attacks made against your Movie cost 1 additional Popcorn.",
+        "title": "Flesh-eating",
+        "number": "02-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "02-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Cult Classic",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"I can't believe you haven't seen 'Teenage Blood Feast'...\"",
+        "abilities": "Draw two extra cards.",
+        "title": "Unchained",
+        "number": "02-11",
+        "mechanic": "Steve Tassie",
+        "art": "02-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Let's Go Skinny Dipping",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"While we wait for Billy to get back, why don't we go for a swim?\"",
+        "abilities": "After this card is played, you must pay one Popcorn for each 'Young' non-'Virgin' Character in the target movie. If you do so, they are all now dead.",
+        "title": "Naked",
+        "number": "02-12",
+        "mechanic": "Steve Tassie",
+        "art": "02-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "We've Seen Your Breasts\nNow You Must Die!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Never canoodle in a horror movie. EVER.\"",
+        "abilities": "Kill one non-'Virgin' 'Female' Character.",
+        "title": "Revealed",
+        "number": "02-13",
+        "mechanic": "Steve Tassie",
+        "art": "02-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "But Right Before the Prom...",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Will you go to the Prom with me?\" \"Of course! I was a bit hungry...\"",
+        "abilities": "Starting your next turn, you may choose to Bank this twist if you have a 'Male' and 'Female' Character in your Movie. If you do so, kill one of them, Bank their printed Defense, and you may make a 'Supernatural' attack against an Opponent of your choice at 3x their combined Defense.",
+        "title": "Date",
+        "number": "02-14",
+        "mechanic": "Steve Caruso",
+        "art": "02-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "Despite Everything\nThey All Graduated!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Congratulations to the graduating class of Amityville High!\"",
+        "abilities": "Starting your next turn, you may bank this twist if you have at least two 'Young' Characters in your Movie. All 'Young' Characters in your Movie are 'Smart' and have +2 Defense. (This does not stack with \"Edjumicated\".)",
+        "title": "School",
+        "number": "02-15",
+        "mechanic": "Steve Caruso",
+        "art": "02-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (2)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well the school blew up and the monsters are all gone, so I guess it must be over!\"",
+        "abilities": "",
+        "title": "Education",
+        "number": "02-16",
+        "mechanic": "Steve Caruso",
+        "art": "02-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Creepy Old Innkeeper",
+        "traits": [
+            "Male",
+            "Old"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"I guess you'll be wantin' to take a shower?\"",
+        "abilities": "May be played as a 'Psycho' attack with an Attack Strength of 10 + the number of 'Female' Characters in the defending Movie.",
+        "title": "Devil",
+        "number": "03-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Spoiled Little Rich Girl",
+        "traits": [
+            "Female",
+            "Young"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Billy may have come camping with YOU, but he's coming home with ME... Or in a body bag...\"",
+        "abilities": "Your hand limit is increased by 1 while she is cast in your Movie.",
+        "title": "Jealous",
+        "number": "03-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "03-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Park Ranger",
+        "traits": [
+            "Male"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"That howl? Probably just a werewolf...\"",
+        "abilities": "Defense = 5 in any 'Natural' Location.",
+        "title": "Mysterious",
+        "number": "03-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Arachnophobia",
+        "traits": [
+            "Monster",
+            "Swarm"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"A phobia is an irrational fear. There is NOTHING irrational about fearing these creepy-crawly bastards!\"",
+        "abilities": "'Swarm' – 'Weapon' Props' Defense = 0 against Arachnophobia.",
+        "title": "Spider",
+        "number": "03-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Blob Monster",
+        "traits": [
+            "Alien",
+            "Monster"
+        ],
+        "stat": "11",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"J-E-L-L-Uh oh!\"",
+        "abilities": "Gains +1 Attack for each Character in the targeted Movie.",
+        "title": "Acrid",
+        "number": "03-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Space Critters",
+        "traits": [
+            "Alien",
+            "Monster"
+        ],
+        "stat": "12",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Awwww! It's so cute, yes it is... AAAAAAH! It ate my face!\"",
+        "abilities": "If Space Critters fails against a Movie with a 'Young' Character in it, once the attack is over it is cast in that Movie as a Character with Defense = 4 and the trait 'Smart'.",
+        "title": "Aliens",
+        "number": "03-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "03-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Camp Lake Zirconia",
+        "traits": [
+            "Natural",
+            "Aquatic",
+            "Mortuary"
+        ],
+        "stat": "5",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"I've never seen a summer camp with its own morgue before.\" \"You wouldn't believe how often it comes in handy...\"",
+        "abilities": "'Psycho' attacks always succeed at the Camp.",
+        "title": "Psycho",
+        "number": "03-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "03-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Cabin in the Woods",
+        "traits": [
+            "Building",
+            "Natural"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Did we leave the door open?\" \"Must have been the wind.\"",
+        "abilities": "Defense = -4 against 'Psycho' attacks.",
+        "title": "Abandoned",
+        "number": "03-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "03-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Row Boat",
+        "traits": [
+            "Vehicle",
+            "Aquatic"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Row, row, row your boat, gently to your death.\"",
+        "abilities": "Defense = 6 when at an 'Aquatic' Location.",
+        "title": "Drowning",
+        "number": "03-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Recreational Vehicle",
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"It may not be fast, but you should see the way it crushes zombies!\"",
+        "abilities": "Pay 3 Popcorn — Stop a 'Zombie' attack made against your Movie.",
+        "title": "Lost",
+        "number": "03-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "03-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Let's Split Up",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"You stay here by yourself, and I'll go see what happened to everyone else...\"",
+        "abilities": "Play with a Creature. Single out one Character to be the intended victim of the current attack. The Defense and Abilities of all other Characters are ignored until the end of the attack.",
+        "title": "Death",
+        "number": "03-11",
+        "mechanic": "Steve Tassie",
+        "art": "03-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Campy 60s Crossover",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Abbott & Costello meet the Blob? You've gotta be kidding me!\"",
+        "abilities": "You may Combine a Creature card from your hand to join the current attack at no extra cost. The Traits and Abilities of both Creatures apply, and if successful you may kill an additional Character.",
+        "title": "Shadow",
+        "number": "03-12",
+        "mechanic": "Steve Tassie",
+        "art": "03-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Cabin Fever",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I can't breathe! I've got to get out of here... GAH! ARGH! GURGLE!\"",
+        "abilities": "One Location's Defense = -3 until the end of the current attack.",
+        "title": "Desperate",
+        "number": "03-13",
+        "mechanic": "Steve Tassie",
+        "art": "03-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Got Lost in the Dark!",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Oh no! They got Billy!\"",
+        "abilities": "You may choose to bank this Twist when you have more than one Character in play and an Opponent has choosen a victim after a successful attack against you. Turn all of your Characters face down, shuffle them up, and have the Opponent choose one at random. That Character dies. Bank their printed Defense. You may redistribute their Props among your other Characters.",
+        "title": "Blackness",
+        "number": "03-14",
+        "mechanic": "Steve Caruso",
+        "art": "03-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Just Kept Coming\nOut of the Woods!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"There's gotta be a nest of them somewhere...\"",
+        "abilities": "Starting your next turn, you may bank this Twist when you have at least one 'Monster' in your Graveyard. If you do, provided there isn't one there already, once per turn you may take a 'Monster' of your choice from your Graveyard and place it face-up, under this card. You may attack with that 'Monster' as if it was in your hand, but afterwards it is removed from the game.",
+        "title": "Woods",
+        "number": "03-15",
+        "mechanic": "Steve Caruso",
+        "art": "03-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (3)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Look! Sunlight! We made it!\"",
+        "abilities": "",
+        "title": "Forest",
+        "number": "03-16",
+        "mechanic": "Steve Caruso",
+        "art": "03-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Space Bounty Hunter",
+        "traits": [
+            "Female",
+            "Large",
+            "Alien"
+        ],
+        "stat": "4",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"See that cute thing? It'll eat your face.\"",
+        "abilities": "Defense = 8 during 'Alien' attacks.",
+        "title": "Captured",
+        "number": "04-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "04-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Reporter",
+        "traits": [
+            "Female",
+            "Smart"
+        ],
+        "stat": "3",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Can you confirm the reports of a giant lizard running amok? ... Chrissy? We're live... Chrissy?\"",
+        "abilities": "Pay 2 Popcorn — Force a target Opponent to reveal their hand.",
+        "title": "Revenge",
+        "number": "04-02",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "04-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Hapless Alien Visitor",
+        "traits": [
+            "Alien",
+            "Dumb"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Take me to your bleep-blorp-darn this translator unit!\"",
+        "abilities": "Defense = 6 during 'Alien' attacks.",
+        "title": "Silent",
+        "number": "04-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "04-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Pod People",
+        "traits": [
+            "Alien",
+            "Monster"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Join us... Join us... C'mon just join us already!\"",
+        "abilities": "If the Pod People are successful, instead of killing a victim, you may choose to steal any number of the defending Player's Characters into your Movie for an additional 2 Popcorn each. Any cards attached to any such Characters are discarded.",
+        "title": "Swarm",
+        "number": "04-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 3,
+            "disad": 1
+        },
+        "art": "04-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Space Mimic From Uranus",
+        "traits": [
+            "Alien",
+            "Monster"
+        ],
+        "stat": "8",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Don't worry, buddy. I'm right behind you!\"",
+        "abilities": "If successful, the Mimic is attached to the Character in the victim's Movie with the lowest printed Defense (Attacker chooses if there's a tie). At the end of that Player's turn, it kills that Character and is attached the next-lowest. If there are no Characters left, or the Character it's attached to is killed, it dies.",
+        "title": "Secret",
+        "number": "04-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "04-05.jpeg",
+        "artist": "Nayla Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Grave Robbers From Outer Space",
+        "traits": [
+            "Alien"
+        ],
+        "stat": "20",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Stupid Earthlings! See how they bury their dead instead of harvesting the parts for science...and SOUP!\"",
+        "abilities": "Gains +1 Attack for every Character in the Defender's Graveyard when Grave Robbers was played.",
+        "title": "Forbidden",
+        "number": "04-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "04-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Alien Headquarters",
+        "traits": [
+            "Building",
+            "Scientific",
+            "Alien"
+        ],
+        "stat": "5",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"SHHHHHH!\" \"I didn't say anything.\" \"That wasn't me. I think it was the door...\"",
+        "abilities": "Defense = -5 against 'Alien' attacks.",
+        "title": "Intergalactic",
+        "number": "04-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "04-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Secret Government Lab",
+        "traits": [
+            "Building",
+            "Scientific",
+            "Underground"
+        ],
+        "stat": "5",
+        "popcorn": "4",
+        "bucket": true,
+        "quote": "\"Has this door always been here?\" \"Sure.\" \"What about the retinal scanner?\"",
+        "abilities": "May be Combined with any non-'Underground' Location.",
+        "title": "Coverup",
+        "number": "04-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "04-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Flashlight",
+        "traits": [
+            "Light"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Great! Now we can see it before it kills us.\"",
+        "abilities": "Defense = 4 in any 'Underground' Location.",
+        "title": "Three-Headed",
+        "number": "04-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "04-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Rifle",
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"What do you mean guns don't work?\" BLAM! \"Works for me!\"",
+        "abilities": "",
+        "title": "Shot",
+        "number": "04-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "04-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Rayguns",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"What do you think this button does?\"",
+        "abilities": "Double or halve the strength of the current 'Alien' attack.",
+        "title": "Laser",
+        "number": "04-11",
+        "mechanic": "Steve Tassie",
+        "art": "04-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "We Come In Peace",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Awww! They're like little children.\" \"Children who've mastered interstellar travel?\"",
+        "abilities": "Add +5 to the current Defense, or stop one 'Alien' attack. Put that 'Alien' into your hand if you have the Military Officer in your Movie.",
+        "title": "Calm",
+        "number": "04-12",
+        "mechanic": "Steve Tassie",
+        "art": "04-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Flying Saucers",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Actually, it's just a hubcap on some wire.\"",
+        "abilities": "The current attack gains +5 Attack and the Trait 'Alien'. If it was already 'Alien' you may double its Attack instead.",
+        "title": "Planet",
+        "number": "04-13",
+        "mechanic": "Steve Tassie",
+        "art": "04-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Killed\nBy Something Innocuous...",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"They were killed by common bacteria?!\"",
+        "abilities": "Starting your next turn, you may choose to bank this Twist if you have a NON-'Weapon' Prop in your Movie, and have either an 'Alien' in your Movie or were just attacked by an 'Alien'. If so, stop or discard the 'Alien' and choose a Trait from one of your NON-'Weapon' Props. All Props in your Movie with that Trait have double Defense.",
+        "title": "Microbes",
+        "number": "04-14",
+        "mechanic": "Steve Caruso",
+        "art": "04-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And It Was Suddenly\nIntergalactic War!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I'm Mary Poppins, y'all!\" \"What?\" \"Sorry...\"",
+        "abilities": "Play with an 'Alien' Creature face-down under it. When your Movie is attacked by an 'Alien', you may choose to bank this Twist. If you do so, reveal the 'Alien' and add its Attack to your Movie's Defense for the duration of the attack. Afterwards the Creature returns to your hand.",
+        "title": "Ex Machina",
+        "number": "04-15",
+        "mechanic": "Steve Caruso",
+        "art": "04-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (4)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Keep watching the skies!\"",
+        "abilities": "",
+        "title": "Space",
+        "number": "04-16",
+        "mechanic": "Steve Caruso",
+        "art": "04-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Military Officer",
+        "traits": [
+            "Male",
+            "Large",
+            "Military"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"You're out of uniform, soldier. Unpolished boots, blood on your coat. Is that brain caught between your teeth?\"",
+        "abilities": "You may issue the Military Officer two Props each turn so long as one is a 'Weapon'.",
+        "title": "Authority",
+        "number": "05-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Beat Cop",
+        "traits": [
+            "Male",
+            "Large",
+            "Cop",
+            "Neighborhood"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"To protect and sever... Wait, what??\"",
+        "abilities": "May be played as a 'Psycho' attack with Attack Strength = 10.\n'Cop' — Gains 2x the bonus from Gun Props.",
+        "title": "Cyborg",
+        "number": "05-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "05-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Post Apocalyptic Highway Warrior",
+        "traits": [
+            "Male",
+            "Large"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I'd be mad, too, if I had to wear old tires like that.\"",
+        "abilities": "Gains +2 Defense for every 'Vehicle' in the same Movie.",
+        "title": "Army",
+        "number": "05-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Carnivore Slugs",
+        "traits": [
+            "Alien",
+            "Monster",
+            "Swarm"
+        ],
+        "stat": "7",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Ewwwww! Why is my seat all slimy?\"",
+        "abilities": "'Swarm' — 'Weapon' Props' Defense = 0 against the Slugs.",
+        "title": "Dreadful",
+        "number": "05-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Say, is That a Tentacle?",
+        "traits": [
+            "Monster",
+            "Aquatic"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I didn't order the calamari... GAH! ARGH! GURGLE!\"",
+        "abilities": "'Aquatic' — Attack Strength is double if attacking an 'Aquatic' Location.\nAfter this attack is over, the target Player puts the top 3 cards of their Deck into the Graveyard.",
+        "title": "Tentacle",
+        "number": "05-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "05-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Horde of Little Monsters",
+        "traits": [
+            "Supernatural",
+            "Monster"
+        ],
+        "stat": "9",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"So this guy buys a little monster for his kid as a Christmas gift? Top notch parenting.\"",
+        "abilities": "Gains +2 Attack for each Prop in the target Movie.",
+        "title": "Thirteen",
+        "number": "05-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Old Nuclear Test Grounds",
+        "traits": [
+            "Natural",
+            "Scientific"
+        ],
+        "stat": "10",
+        "popcorn": "4",
+        "bucket": true,
+        "quote": "\"The mutants around here pronounce it \"nuke-u-lar.\"",
+        "abilities": "Whenever an attack is made at the Test Grounds, any Player(s) may pay for and Combine a 'Monster' Creature of their own with the attack, and if successful they may kill another Character.",
+        "title": "Wasteland",
+        "number": "05-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 2
+        },
+        "art": "05-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Abandoned Building",
+        "traits": [
+            "Building"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Looks spooky, but maybe they have a phone.\" \"Yeah, a spooky phone.\"",
+        "abilities": "When this card leaves play, put it and 5 random cards from your Graveyard on the bottom of your Deck.",
+        "title": "Hollow",
+        "number": "05-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Pistol",
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "BLAM! BLAM! BLAM! BLAM! BLAM! BLAM! Click, click, click... \"Crap!\"",
+        "abilities": "If the Pistol is in your Graveyard, you may pay 3 Popcorn to shuffle it back into your Deck.",
+        "title": "Armed",
+        "number": "05-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "05-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Flamethrower",
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "7",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Now we're cooking with heat!\"",
+        "abilities": "The Flamethrower's Defense counts against 'Swarm' attacks.",
+        "title": "Inferno",
+        "number": "05-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "05-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Back to the Home",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"What are you doing way out here at this time of night, Gramps?\"",
+        "abilities": "Kill any one 'Old' Character.",
+        "title": "Demonic",
+        "number": "05-11",
+        "mechanic": "Steve Tassie",
+        "art": "05-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Aim Fer the Head, Boys!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Eat lead, ya brain-slurpin' undead bastard!\"",
+        "abilities": "Play to stop a 'Zombie' attack as long as the target Movie has at least one 'Gun' Prop OR add +3 Defense against any attack for each 'Gun' in target the Movie.",
+        "title": "Decapitated",
+        "number": "05-12",
+        "mechanic": "Steve Tassie",
+        "art": "05-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Director's Cut",
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"MY movie does NOT need a voice over!\"",
+        "abilities": "Reverse the outcome of one attack after it has been resolved. (If it's a success, it's a failure, and vice-versa.)",
+        "title": "Scream",
+        "number": "05-13",
+        "mechanic": "Steve Tassie",
+        "art": "05-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "Chekov's Gun",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Rule #1 of Chekov's Gun: Have a gun.\"",
+        "abilities": "When your Movie is attacked and there is a 'Gun' Prop in your Graveyard whose added Defense would alter the outcome, you may bank this Twist and play the 'Gun' on one of your Characters for free, ignoring the Prop Limit.",
+        "title": "Battle",
+        "number": "05-14",
+        "mechanic": "Steve Caruso",
+        "art": "05-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Built Him Stronger,\nMore Aggressive!",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Protect the innocent, uphold the law!\"",
+        "abilities": "Starting your next turn, you may bank this Twist when you have a 'Cop' or 'Military' Character and a 'Gun' Prop in your Graveyard. If you do, play the Character in your Movie and remove the Prop from play. They now have the Trait 'Cyborg' and the added Defense and Abilities of the Prop as if they were carrying it. Bank the Character's printed Defense.",
+        "title": "Machine",
+        "number": "05-15",
+        "mechanic": "Steve Caruso",
+        "art": "05-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (5)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Nice shootin' son. What's your name?\"",
+        "abilities": "",
+        "title": "Cop",
+        "number": "05-16",
+        "mechanic": "Steve Caruso",
+        "art": "05-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "The Guy Everyone Knows Will Get Killed",
+        "traits": [
+            "Male",
+            "Dumb",
+            "Unlucky"
+        ],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I know there's a killer on the loose, so I'm going to wander around in the dark...\"",
+        "abilities": "'Unlucky' – If there is ever a choice of Characters to kill in his Movie, this guy must be chosen first.",
+        "title": "Radioactive",
+        "number": "06-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 2
+        },
+        "art": "06-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Nervous Girl",
+        "traits": [
+            "Female",
+            "Young"
+        ],
+        "stat": "1",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"You SAY it's going to be okay, but YOU DON'T KNOW! Billy said the same thing and look what happened to him!\"",
+        "abilities": "Pay 2 Popcorn — Make the Nervous Girl the target of a Creature attack made against your Movie.",
+        "title": "Insane",
+        "number": "06-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "06-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Teenaged Hoodlum",
+        "traits": [
+            "Male",
+            "Young",
+            "Neighborhood"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"I'll stand on your lawn if I want to, old man!\"",
+        "abilities": "Gains +1 Defense for each 'Weapon' he has. Loses -1 Defense for each 'Old' Character in the same Movie.",
+        "title": "Tunnel",
+        "number": "06-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "06-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Zombies From Hell",
+        "traits": [
+            "Zombie"
+        ],
+        "stat": "11",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I thought we weren't using the Z-word...\"",
+        "abilities": "When Zombies From Hell are played, the Attacker may choose to give them the trait 'Supernatural'.",
+        "title": "Clutches",
+        "number": "06-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "06-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Mummy",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Just look at how beautifully preserved he... GAK! ARGH! GURGLE!\"",
+        "abilities": "The Mummy always succeeds when attacking a 'Mortuary'.",
+        "title": "Tomb",
+        "number": "06-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "06-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Severed Body Parts",
+        "traits": [
+            "Supernatural",
+            "Zombie",
+            "Monster"
+        ],
+        "stat": "11",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"If those are your hands, whose hand is ON MY THIGH???\"",
+        "abilities": "Regardless of how it resolves, after this attack is over, place Body Parts on the bottom of the Deck.",
+        "title": "Pagan",
+        "number": "06-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "06-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Tomb",
+        "traits": [
+            "Building",
+            "Underground",
+            "Mortuary"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The inscription reads, 'All who enter the sacred resting place of Ra-tep shall suffer most hideous death.' Okay, let's go in.\"",
+        "abilities": "Defense = -5 during 'Supernatural' attacks.",
+        "title": "Terror",
+        "number": "06-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "06-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "House By the Cemetery",
+        "traits": [
+            "Building",
+            "Neighborhood"
+        ],
+        "stat": "4",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"What's it like living next to a cemetery?\" \"Quiet. Usually...\"",
+        "abilities": "Defense = -3 during 'Zombie' or 'Vampire' attacks. Can be combined with any 'Mortuary'.",
+        "title": "Undead",
+        "number": "06-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "06-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Chainsaw",
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "4",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Groovy.\"",
+        "abilities": "Adds +12 to an attack when played on a 'Psycho'.",
+        "title": "Tearing",
+        "number": "06-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "06-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Shotgun",
+        "traits": [
+            "Weapon",
+            "Gun"
+        ],
+        "stat": "4",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Good... Bad... I'm the one with the gun.\"",
+        "abilities": "On your turn you may either put the top card of the Graveyard under the Deck OR put the top card of the Deck into the Graveyard.",
+        "title": "Part IV",
+        "number": "06-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "06-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Oh My God,\nThey Got Billy!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Billy, are you okay? Say something, pal.\" \"Braaaaains!\" \"Say something else?\"",
+        "abilities": "Take a Character from the Graveyard and use it to make a 'Supernatural' 'Zombie' attack with a strength triple the Character's printed Defense.",
+        "title": "Curse",
+        "number": "06-11",
+        "mechanic": "Steve Tassie",
+        "art": "06-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Reinforcements",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"I can control the Armies of the Dead? Cool!\"",
+        "abilities": "Double either the Attacker or Defender's current strength.",
+        "title": "Howling",
+        "number": "06-12",
+        "mechanic": "Steve Tassie",
+        "art": "06-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Continuity Schmontinuity",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Didn't that guy die like twenty minutes ago?\"",
+        "abilities": "Take a Character out of the Graveyard and put it into play in the Movie of your choice at no extra cost.",
+        "title": "Meets",
+        "number": "06-13",
+        "mechanic": "Steve Tassie",
+        "art": "06-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Rose From The Grave!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Arise! Serve me!\" NNNGH! NNNGH!",
+        "abilities": "Starting your next turn, when you have at least three Characters in your Graveyard you may Bank this Twist. If you do, play 3 of them into your Movie for free. They are now 'Dumb', 'Supernatural', and 'Zombie', and cannot use Abilities, Popcorn, or Props.",
+        "title": "Shambling",
+        "number": "06-14",
+        "mechanic": "Steve Caruso",
+        "art": "06-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And It Came Back With Reinforcements!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"The zombies are coordinating with each other!\"",
+        "abilities": "Starting your next turn, you may bank this Twist when you have at least two Creatures in your Graveyard. If you do, you may attack a target Opponent with any two Creatures in your Graveyard combined into a single attack (they combine Attack and Abilities) with the additional Traits 'Supernatural' and 'Zombie'. If successful you may kill an additional Character.",
+        "title": "Hordes",
+        "number": "06-15",
+        "mechanic": "Steve Caruso",
+        "art": "06-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (7)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, the cops came by and shot the last survivor, so I guess it's over!\"",
+        "abilities": "",
+        "title": "Zombie",
+        "number": "06-16",
+        "mechanic": "Steve Caruso",
+        "art": "06-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Robot",
+        "traits": [
+            "Large"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I may be only a robot, but you cannot Ctrl+Alt+Del my heart.\"",
+        "abilities": "Pay 3 Popcorn — Save a 'Young' Character who has just been killed in your Movie. They stay in play rather than go to the Graveyard.",
+        "title": "Massacre",
+        "number": "07-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "07-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Wasteland Cyborg",
+        "traits": [
+            "Male",
+            "Large"
+        ],
+        "stat": "6",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Metal Fleshman of Garbage Country?\"\n\"Well, it loses something in translation...\"",
+        "abilities": "Gains +3 Defense if in a 'Scientific' Location.",
+        "title": "Skull",
+        "number": "07-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "07-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Skippy the Wonder Dog",
+        "traits": [
+            "Smart",
+            "Family",
+            "Neighborhood",
+            "Animal"
+        ],
+        "stat": "4",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"What's that Skippy? Billy's torso is down the well?\"",
+        "abilities": "'Animal' - May only use 'Clothing' Props.",
+        "title": "Companion",
+        "number": "07-03",
+        "mechanic": "Steve Tassie",
+        "prior": "gros-re 004",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "07-03-b.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Genetically Monsterized Organism",
+        "traits": [
+            "Special"
+        ],
+        "stat": "5",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Half human, half snake. All Manaconda!\"",
+        "abilities": "When played, you may give the GMO any number of Creature Traits you like from among the Creatures currently in the targeted Movie's Graveyard. Each Trait added this way gives the GMO +5 Attack.",
+        "title": "Tainted",
+        "number": "07-04",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "07-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Mad Scientist",
+        "traits": [
+            "Psycho"
+        ],
+        "stat": "6",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"And they called me MAD at the community college...!\"",
+        "abilities": "'Psycho' — Any Player may play 'Weapon' Props to boost the Doctor's attack for free.\n\nMay be played as a Special Effect to triple the current strength of an attack.",
+        "title": "Dungeon",
+        "number": "07-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "07-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Crazed Doctor",
+        "traits": [
+            "Psycho"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Life is a terminal illness... And the only cure is death.\"",
+        "abilities": "'Psycho' — Any Player may play 'Weapon' Props to boost the Doctor's attack for free.\n\nAlways succeeds when attacking a 'Hospital'.",
+        "title": "Suicide",
+        "number": "07-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "07-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Insane Asylum",
+        "traits": [
+            "Building",
+            "Hospital"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Attention patients: Lithium is no longer available on credit.\"",
+        "abilities": "Pay 2 Popcorn on your turn — Choose one of your Characters. Make a 'Psycho' attack against another Movie with an Attack equal to their Defense and attached cards. You may not choose that Character again this turn.",
+        "title": "Sub-Human",
+        "number": "07-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "07-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "LaBORatory",
+        "traits": [
+            "Scientific",
+            "Building"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"It's alive. ALIVE!!!\"",
+        "abilities": "Pay 3 Popcorn on your turn — Bring a Character back from the Graveyard. They are now 'Dumb', may only use 'Clothing' Props.",
+        "title": "Risen",
+        "number": "07-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "07-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Toolkit",
+        "traits": [
+            "Scientific"
+        ],
+        "stat": "0",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Let's see, I know I have one of those bastards in here somewhere...\"",
+        "abilities": "Pay 2 Popcorn on your turn — Take a Prop from the Graveyard and put it into your hand.",
+        "title": "Ghost",
+        "number": "07-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "07-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "First Aid Kit",
+        "traits": [
+            "Prop"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"I've never treated a chainsaw wound to the head before, but what the hell... Hand me the iodine!\"",
+        "abilities": "Discard from your Movie to take a Character from your Graveyard and cast them in your Movie for free.",
+        "title": "Creature",
+        "number": "07-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "07-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Cut!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"What do you mean we can't afford to do a second take?\"",
+        "abilities": "Stop and discard one Special Effect card as it is being played.",
+        "title": "X-Ray",
+        "number": "07-11",
+        "mechanic": "Steve Tassie",
+        "art": "07-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Good God!\nThey're Radioactive!",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Hey, turn out the light.\" \"I already did...\"",
+        "abilities": "Double the current strength of a Creature.",
+        "title": "Murder",
+        "number": "07-12",
+        "mechanic": "Steve Tassie",
+        "art": "07-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "It Was a Dark\nand Stormy Night",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Oh great, purple lightning. That's never a good sign.\"",
+        "abilities": "Play this card in your Movie. All attacks made until the start of your next turn are double strength, after which it is discarded.",
+        "title": "Terrible",
+        "number": "07-13",
+        "mechanic": "Steve Tassie",
+        "art": "07-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And It Killed Its Creator!",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"No! No! I gave you life! GAK! ARGH! GURGLE!\"",
+        "abilities": "When this card is placed face-down, put a 'Monster' Creature face down under it. Starting next turn, on your turn you may bank this Twist by killing one of your Characters. If you do, you may immediately attack an Opponent of your choice with the 'Monster' for free with a bonus of twice the Defense of the sacrificed Character.",
+        "title": "Lives",
+        "number": "07-14",
+        "mechanic": "Steve Caruso",
+        "art": "07-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And Then The Doomsday Device\nWent Off!",
+        "traits": [],
+        "stat": "5",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"But then EVERYONE will die!\" \"Yes! Bwahaha! Wait... what?\"",
+        "abilities": "Starting your next turn, you may bank this Twist when you have the most Characters in play (ties don't count). If you do, all Characters in all Movies are killed.",
+        "title": "Annihilation",
+        "number": "07-15",
+        "mechanic": "Steve Caruso",
+        "art": "07-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (7)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, the Doctor's dead and his creation is wandering off into the moonlight, so I guess it's over!\"",
+        "abilities": "",
+        "title": "Science",
+        "number": "07-16",
+        "mechanic": "Steve Caruso",
+        "art": "07-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Old Priest",
+        "traits": [
+            "Male",
+            "Old",
+            "Smart",
+            "Virgin"
+        ],
+        "stat": "3",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Holy Christ, you scared the bejesus outta me!\"",
+        "abilities": "Defense = 6 during 'Supernatural' attacks.",
+        "title": "Maniac",
+        "number": "08-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "08-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Aged Vampire Hunter",
+        "traits": [
+            "Male",
+            "Old"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"The cardinal rule of hunting vampires is that one vampire is much easier to kill than ten.\"",
+        "abilities": "Defense = 6 against 'Vampire' attacks.",
+        "title": "Satanic",
+        "number": "08-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "08-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Fortune Teller",
+        "traits": [
+            "Female",
+            "Old",
+            "Smart"
+        ],
+        "stat": "1",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"I look into your future and see... GAK! ARGH! GURGLE...\"",
+        "abilities": "You may look at the top card of your deck at any time.",
+        "title": "Spell",
+        "number": "08-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "08-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Dracula",
+        "traits": [
+            "Vampire",
+            "Supernatural"
+        ],
+        "stat": "13",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Make mine a Bloody Mary. Or a Bloody Sally. Hell, I'll even take a Bloody Steve at this point! I'm famished!\"",
+        "abilities": "If an attack with Dracula is successful, you may discard a Character or Creature from your hand to take Dracula back into your hand.",
+        "title": "Dracula",
+        "number": "08-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "08-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Subterranean Cannibals",
+        "traits": [
+            "Psycho",
+            "Underground"
+        ],
+        "stat": "10",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Anybody else think this clown tastes funny?\"",
+        "abilities": "'Psycho' — Any Player may play 'Weapon' Props to boost the Cannibals' attack for free.\n\nIf the Cannibals are successful, put the top 3 cards of the targeted Movie's Deck into the Graveyard.",
+        "title": "Under",
+        "number": "08-05",
+        "mechanic": "Steve Caruso",
+        "balance": {
+            "bonus": 3,
+            "disad": 0
+        },
+        "art": "08-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Vampire Beach Babes",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "14",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Gotta love a girl with an oral fixation...\"",
+        "abilities": "Attacker may declare them 'Aquatic' when played. Beach Babes always succeeds 'Aquatic' Locations.",
+        "title": "Seduction",
+        "number": "08-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "08-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Old Church",
+        "traits": [
+            "Building",
+            "Holy"
+        ],
+        "stat": "7",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"We're on a mission from God...\"",
+        "abilities": "Immediately after filling up at the beginning of your turn, discard a card from your hand or discard the Old Church. It is automatically discarded if you ever skip a turn.",
+        "title": "Unholy",
+        "number": "08-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 2
+        },
+        "art": "08-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Haunted Hotel",
+        "traits": [
+            "Building"
+        ],
+        "stat": "-8",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"On a dark desert highway...\"",
+        "abilities": "The Axe's Defense = 8 in the Haunted Hotel. \"Creepy Old Inkeeper\" always succeeds when attacking this Location.",
+        "title": "Invisible",
+        "number": "08-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 1
+        },
+        "art": "08-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Holy Relics",
+        "traits": [
+            "Supernatural"
+        ],
+        "stat": "0",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Holy water, silver bullets, crucifix... this thing's got everything. It's like God's Swiss Army knife!\"",
+        "abilities": "During 'Supernatural' attacks, Defense = 4, or = 10 in the hands of the \"Aged Vampire Hunter\", or = 12 with the \"Old Priest\".",
+        "title": "Ritual",
+        "number": "08-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "08-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Black Cloak",
+        "traits": [
+            "Clothing"
+        ],
+        "stat": "1",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Like a Snuggie, but eeeeevil.\"",
+        "abilities": "The Character wearing the Cloak may not be targeted by Creature attacks unless there is no other choice. This will not protect 'Unlucky' Characters, however.",
+        "title": "Liar",
+        "number": "08-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "08-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "But It Was Here Just a\nMinute Ago",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Never fear! Vampires can always be thwarted by... say, has anyone seen my holy amulet of Saint Shrivens?\"",
+        "abilities": "Discard any one Prop from play.",
+        "title": "Eyeball",
+        "number": "08-11",
+        "mechanic": "Steve Tassie",
+        "art": "08-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Why Won't You Die?",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I guess getting mulched by a farm combine isn't as fatal as it used to be....\"",
+        "abilities": "After the current Creature attack is over, put the Creature into your hand.",
+        "title": "Fear",
+        "number": "08-12",
+        "mechanic": "Steve Tassie",
+        "art": "08-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Haunted",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Cool! The walls paint themselves!\" \"That's not paint, idiot. It's blood.\"",
+        "abilities": "Attach to a Location. That Location's Defense = -7 against 'Supernatural' attacks.",
+        "title": "Dead",
+        "number": "08-13",
+        "mechanic": "Steve Tassie",
+        "art": "08-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Found Its Coffin!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"This is where it sleeps!\" \"So where are THEY?!\"",
+        "abilities": "Starting your next turn, you may bank this Twist when you have at least one 'Vampire' in your Graveyard. If you do, provided there isn't one there already, once per turn you may take a 'Vampire' of your choice from your Graveyard and place it face-up under this card. You may attack with that 'Vampire' as if it was in your hand, but afterwards it is removed from the game.",
+        "title": "Sepulchure",
+        "number": "08-14",
+        "mechanic": "Steve Caruso",
+        "art": "08-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Seduced By The Vampire!",
+        "traits": [],
+        "stat": "3",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I don't get it. Why do chicks think they're sexy?\"",
+        "abilities": "You may bank this Twist if a 'Vampire' attack you launched successfully killed a Character. You may immediately make a 'Supernatural' 'Vampire' attack against the same Movie at 3x that Character's printed Defense.",
+        "title": "Vampiress",
+        "number": "08-15",
+        "mechanic": "Steve Caruso",
+        "art": "08-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (8)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well the vampire just became a pile of dust, so I guess it's over!\"",
+        "abilities": "",
+        "title": "Nosferatu",
+        "number": "08-16",
+        "mechanic": "Steve Caruso",
+        "art": "08-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Nymphomaniac Cheerleader",
+        "traits": [
+            "Female",
+            "College",
+            "Dumb"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Give me an O! Give me an O!\nO-O-O-O YES!\"",
+        "abilities": "All 'Males' cast in the same Movie gain +1 Defense.",
+        "title": "Woman",
+        "number": "09-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "09-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Big Dumb Jock",
+        "traits": [
+            "Male",
+            "Young",
+            "Dumb",
+            "Large"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Dude! Beer me!\"",
+        "abilities": "When the Big Dumb Jock is killed, he goes to the bottom of the Deck, rather than the Graveyard.",
+        "title": "Youth",
+        "number": "09-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "09-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Coed Science Major",
+        "traits": [
+            "Female",
+            "College",
+            "Smart"
+        ],
+        "stat": "4",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"How do we stop this thing?\" \"Why are you asking ME?\" \"You are the one with the degrees, aren't you?\"",
+        "abilities": "When Coed Science Major leaves play, the Opponent who killed her puts the top 3 cards of their Deck into the Graveyard.",
+        "title": "Girlfriend",
+        "number": "09-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "09-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Masked Stalker",
+        "traits": [
+            "Psycho"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Is that a chainsaw in your pocket, or are you just happy to see me? Oh it's a chainsaw... AAAAAAAAAH!\"",
+        "abilities": "'Psycho' — Any Player may play 'Weapon' Props to boost the Masked Stalker's Attack for free.",
+        "title": "Coed",
+        "number": "09-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "09-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Bloodsucking Fiends",
+        "traits": [
+            "Supernatural",
+            "Vampire"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Is that guy sparkling?\" \"Yeah... he's not with us.\"",
+        "abilities": "May be combined with another 'Vampire' attack. The resulting attack has the combined Attack and all the Traits and Abilities of both, and if successful you may kill an additional Character.",
+        "title": "Damned",
+        "number": "09-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "09-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Brain Slug Zombies",
+        "traits": [
+            "Alien",
+            "Zombie"
+        ],
+        "stat": "16",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"It only hurts a little, when the slug burrows into your brain...\"",
+        "abilities": "",
+        "title": "Mindless",
+        "number": "09-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "09-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "College Campus",
+        "traits": [
+            "Building",
+            "School",
+            "Natural",
+            "Scientific"
+        ],
+        "stat": "3",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"It's not the Student Body that bothers me... it's all the student bodies.\"",
+        "abilities": "Can be Combined with the \"Sorority House\". Defense = 6 if any 'College' Character is present.",
+        "title": "Pledge",
+        "number": "09-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "09-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Sorority House",
+        "traits": [
+            "Building"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"Teehee! Let's have a pillowfight in our underwear!\"",
+        "abilities": "Defense = -3 during 'Psycho' attacks.",
+        "title": "Teenage",
+        "number": "09-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "09-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Axe",
+        "traits": [
+            "Weapon"
+        ],
+        "stat": "5",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Heeeeeeeeeere's Johnny!\"",
+        "abilities": "",
+        "title": "Fifty Foot",
+        "number": "09-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 0
+        },
+        "art": "09-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Mask",
+        "traits": [
+            "Clothing"
+        ],
+        "stat": "2",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"We all wear a mask at some time or another.\" \"Yeah, but yours is covered in blood.\"",
+        "abilities": "The Character wearing the Mask cannot be targeted by Special Effect cards. May be played as a 'Weapon' on the \"Masked Stalker\" to make him automatically succeed.",
+        "title": "Black",
+        "number": "09-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "09-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Too Stupid to Live",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"You're so stupid it's painful. Not to you, but to those around you.\"",
+        "abilities": "Kill one 'Dumb' Character.",
+        "title": "Man-Eating",
+        "number": "09-11",
+        "mechanic": "Steve Tassie",
+        "art": "09-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Only the Virgin Survives",
+        "traits": [],
+        "stat": "",
+        "popcorn": "3",
+        "bucket": false,
+        "quote": "\"Never have sex in a horror movie. EVER.\"",
+        "abilities": "Kill a 'Male' and non-'Virgin' 'Female' Character in the same Movie.",
+        "title": "Sucking",
+        "number": "09-12",
+        "mechanic": "Steve Tassie",
+        "art": "09-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Edjumicated",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": true,
+        "quote": "\"I gots me a diploma!\"",
+        "abilities": "Attach this card to a Character. They get +2 Defense and the trait 'Smart'. If the Character had the trait 'Dumb', they no longer do.",
+        "title": "Wisened",
+        "number": "09-13",
+        "mechanic": "Steve Tassie",
+        "art": "09-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Actually Paid Attention!",
+        "traits": [],
+        "stat": "1",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Wait a sec... we learned about its weakness in Tropeology class!\"",
+        "abilities": "You may bank this Twist if your Movie is under attack and there is at least one Prop in it. If you do, attach this card to a Prop in your Movie. Its Defense is now triple.",
+        "title": "Scholar",
+        "number": "09-14",
+        "mechanic": "Steve Caruso",
+        "art": "09-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And Pledge Week Turned Deadly!",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"I dunno man...\" \"Hey, everybody's doing it!\"",
+        "abilities": "Starting your next turn, you may bank this twist when you have at least 2 'Young' or 'College' Characters in your Movie. If you do, you may make a 'Psycho' attack against an Opponent's Movie, the strength of which is equal to your 'Young' and 'College' Characters' total Defense, including all attached cards.",
+        "title": "Frat",
+        "number": "09-15",
+        "mechanic": "Steve Caruso",
+        "art": "09-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (9)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, they're awake in a hospital and there's no sign of the slasher, so it must be over!\"",
+        "abilities": "",
+        "title": "College",
+        "number": "09-16",
+        "mechanic": "Steve Caruso",
+        "art": "09-16.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Fat Kid",
+        "traits": [
+            "Large",
+            "Male",
+            "Young",
+            "Unlucky"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": true,
+        "quote": "\"I don't have to be fast, I just have to be—\" \"Oh shut up!\"",
+        "abilities": "'Unlucky' - Whenever there is a choice of Characters to kill in this Movie, this one must be chosen first.'",
+        "title": "Hulking",
+        "number": "10-01",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 2
+        },
+        "art": "10-01.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Goth Chick",
+        "traits": [
+            "Young",
+            "Female"
+        ],
+        "stat": "3",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"I am one with all creatures of the darkness… EWW, it's a bug! Get it off me!\"",
+        "abilities": "Defense = -5 against 'Vampire' attacks.",
+        "title": "Goth",
+        "number": "10-02",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "10-02.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "character",
+        "name": "Teenage Boy Desperate to Get Some",
+        "traits": [
+            "Young",
+            "Male",
+            "Dumb"
+        ],
+        "stat": "3",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"I don't believe it, NOW my PANTS are chafing me…\"",
+        "abilities": "+1 Defense for every 'Young' 'Female' Character in the same Movie.",
+        "title": "Ogling",
+        "number": "10-03",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-03.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Evil Teenage Witches",
+        "traits": [
+            "Supernatural",
+            "Neighborhood"
+        ],
+        "stat": "13",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"So first we light the candles and call the elements, then we rip out the sacrifice's heart… then we go get lattes, right?\"",
+        "abilities": "+1 Attack for each 'Young' Character in the target Movie.",
+        "title": "Coven",
+        "number": "10-04",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-04.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "Teenage Vampire Hoods",
+        "traits": [
+            "Supernatural",
+            "Vampire",
+            "Neighborhood"
+        ],
+        "stat": "10",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Live forever, never grow old and no more curfew!\"",
+        "abilities": "Gains +2 Attack for every 'Neighborhood' card in the target Movie.",
+        "title": "Hoods",
+        "number": "10-05",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-05.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "creature",
+        "name": "12,000 Angry Rats",
+        "traits": [
+            "Monster",
+            "Swarm"
+        ],
+        "stat": "11",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"There were rats, dad...\" \"Rats??\"",
+        "abilities": "'Swarm' — 'Weapon' Props' Defense = 0 against 12,000 Angry Rats.",
+        "title": "Infestation",
+        "number": "10-06",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-06.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "10-Speed",
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Is one of the speeds 'get me the hell out of here'?\"",
+        "abilities": "Defense = 4 on a 'Young' Character.",
+        "title": "Ride",
+        "number": "10-07",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-07.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "prop",
+        "name": "Skateboard",
+        "traits": [
+            "Vehicle"
+        ],
+        "stat": "2",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Taste deck…\" WHAM! \"… you no good…\" WHAM! \"...undead punk!\" WHAM!",
+        "abilities": "Discard the Skateboard from play to gain +5 DS for the duration of the current attack.",
+        "title": "Grind",
+        "number": "10-08",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 1,
+            "disad": 0
+        },
+        "art": "10-08.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "The Mall",
+        "traits": [
+            "Building",
+            "Shop"
+        ],
+        "stat": "6",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Does this brain make me look fat?\"",
+        "abilities": "'Zombie' attacks always succeed in The Mall.",
+        "title": "Shop",
+        "number": "10-09",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 0,
+            "disad": 1
+        },
+        "art": "10-09.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "location",
+        "name": "Department Store",
+        "traits": [
+            "Building",
+            "Shop"
+        ],
+        "stat": "2",
+        "popcorn": "3",
+        "bucket": true,
+        "quote": "\"Attention Zombie shoppers!\"",
+        "abilities": "Once per turn, for three Popcorn you may take any one Prop out of your Graveyard and put it into play in your Movie. May be combined with \"The Mall\".",
+        "title": "Discount",
+        "number": "10-10",
+        "mechanic": "Steve Tassie",
+        "balance": {
+            "bonus": 2,
+            "disad": 0
+        },
+        "art": "10-10.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Allowance",
+        "traits": [],
+        "stat": "",
+        "popcorn": "0",
+        "bucket": false,
+        "quote": "\"Gimmie! Gimmie!\"",
+        "abilities": "Draw 1 card for each 'Young' Character in your Movie.",
+        "title": "Greed",
+        "number": "10-11",
+        "mechanic": "Steve Tassie",
+        "art": "10-11.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Double Feature Creature Show",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"At the late night, double feature picture show...\"",
+        "abilities": "You may Combine a Creature card from you hand to join the current 'Monster', 'Supernatural', or 'Vampire' attack at no extra cost. The Traits and Abilities of both apply, and if successful you may kill an additional Character.",
+        "title": "Two-Headed",
+        "number": "10-12",
+        "mechanic": "Steve Tassie",
+        "art": "10-12.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "special-effect",
+        "name": "Kick To the Groin",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"They never used to fight back so hard.\"",
+        "abilities": "Add +5 DS for the duration of the current attack OR stop one 'Psycho' attack.",
+        "title": "Strikes",
+        "number": "10-13",
+        "mechanic": "Steve Tassie",
+        "art": "10-13.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And They Were Secretly\nBitten All Along!",
+        "traits": [],
+        "stat": "*",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"Billy! You should have told us!\"",
+        "abilities": "When your Character with the highest Defense is killed, you may bank this Twist. If you do so, you may immediately Bank their printed Defense, and attack the Player's Movie who killed them with a 'Supernatural' 'Zombie' attack with a strength of 3x that Character's Defense, plus any bonuses from attached cards they had when they died.",
+        "title": "Festering",
+        "number": "10-14",
+        "mechanic": "Steve Caruso",
+        "art": "10-14.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "plot-twist",
+        "name": "And the Monsters Started\na Turf War!",
+        "traits": [],
+        "stat": "2",
+        "popcorn": "0",
+        "bucket": true,
+        "quote": "\"It's a battle of the brands!\"",
+        "abilities": "If your Movie is set in a 'Shop' and you have a Creature in your hand, when you are attacked you may bank this Twist. If you do, reveal a Creature from your hand. Add the Creature's strength to your Movie's Defense for the duration of the attack. After the attack is resolved, discard the Creature.",
+        "title": "Sale",
+        "number": "10-15",
+        "mechanic": "Steve Caruso",
+        "art": "10-15.jpeg",
+        "artist": "Steve Caruso"
+    },
+    {
+        "type": "roll-the-credits",
+        "name": "Roll The Credits (10)",
+        "traits": [],
+        "stat": "",
+        "popcorn": "",
+        "bucket": false,
+        "quote": "\"Well, the helicopter took off from the roof leaving the zombies behind, so I guess it's over!\"",
+        "abilities": "",
+        "title": "Mall",
+        "number": "10-16",
+        "mechanic": "Steve Caruso",
+        "art": "10-16.jpeg",
+        "artist": "Steve Caruso"
+    }
+]

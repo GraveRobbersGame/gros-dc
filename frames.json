@@ -1,0 +1,6 @@
+{
+    "name": "GROS Director's Cut Frame",
+    "description": "The default art frame for GROS: Director's Cut.",
+    "sigil": "default",
+    "location": "/frame/"
+}
