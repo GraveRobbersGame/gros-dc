@@ -82,6 +82,7 @@ constructor(data) {
     this.artx       = data?.artx        ?? 0;                   //X adjust
     this.arty       = data?.arty        ?? 0;                   //Y adjust
     this.artz       = data?.artz        ?? 1;                   //Zoom factor
+    this.artbg      = data?.artbg       ?? 0x000000;            //Default background
 
     this.mechanic   = data?.mechanic    ?? "None";              //Mechanic's name
 
@@ -129,6 +130,7 @@ update() {
     this.artx       ??= 0;                   //X adjust
     this.arty       ??= 0;                   //Y adjust
     this.artz       ??= 1;                   //Zoom factor
+    this.artbg      ??= 0x000000;            //Background
 
     this.mechanic   ??= "None";              //Mechanic's name
 
@@ -141,12 +143,21 @@ update() {
     // Artwork //
     /////////////
 
+    //Background color
+    let artBG = new PIXI.Graphics();
+        artBG.beginFill(this.artbg); console.log(this.artbg);
+        artBG.drawRect(0,40,240,240);
+        artBG.endFill();
+        this.addChild(artBG);
+        
+    //Mask
     let artMask = new PIXI.Graphics();
         artMask.beginFill(0xffffff);
         artMask.drawRect(0,40,240,240);
         artMask.endFill();
         this.addChild(artMask);
 
+    //Art image
     let artfileUrl = this.image;
         if (artfileUrl == null) {
             artfileUrl = `/img/default.jpg`;
