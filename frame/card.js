@@ -145,7 +145,7 @@ update() {
 
     //Background color
     let artBG = new PIXI.Graphics();
-        artBG.beginFill(this.artbg); console.log(this.artbg);
+        artBG.beginFill(this.artbg); //console.log(this.artbg);
         artBG.drawRect(0,40,240,240);
         artBG.endFill();
         this.addChild(artBG);
@@ -167,10 +167,16 @@ update() {
         }
 
     let art = PIXI.Sprite.from(artfileUrl);
-        art.width = 240 * this.artz;
-        art.height = 240 * this.artz;
-        art.x = this.artx;
-        art.y = 40 + this.arty;
+
+        //To fix aspect ratio
+        art.texture.baseTexture.on('update', () => {
+            let ratio = art.texture.baseTexture.realHeight/art.texture.baseTexture.realWidth;
+            art.width = 240 * this.artz;
+            art.height = 240 * (this.artz * ratio);
+            art.x = this.artx;
+            art.y = 40 + this.arty;
+        });
+        art.texture.baseTexture.update();
         this.addChild(art);
 
         art.mask = artMask;
