@@ -370,6 +370,7 @@ update() {
         align : 'center',
         fontFamily : 'Montserrat', 
         fontSize: 10, 
+        lineHeight: 10,
         fill : fontColor,
     });
     let traits = new PIXI.Text(this.traits.join(', '),traitsStyle);
@@ -475,6 +476,7 @@ update() {
         align : 'center',
         fontFamily : 'Montserrat', 
         fontSize: 22.5, 
+        lineHeight: 22.5,
         fill : fontColor,
         fontWeight:600,
         dropShadow:!this.playtest,
@@ -693,6 +695,7 @@ update() {
         align : 'center',
         fontFamily : 'Montserrat', 
         fontSize: 10, 
+        lineHeight: 10,
         fill : fontColor,
         fontWeight:400,
         dropShadow:false, //Keep false here for calculating size, true later
@@ -728,6 +731,7 @@ update() {
     while ( (h2 + minSpace) > h0) {
         //Adjust abilities down
         abilitiesStyle.fontSize -= .1;
+        abilitiesStyle.lineHeight -= .1;
         //Height of abilities
         h2 = (this.abilities.length > 0) ? abilities.height : 0;
     }
