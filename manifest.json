@@ -13,5 +13,7 @@
     "art": "/art/",
     "thumb": "/thumb/",
     "link" : "https://shop.arghacademy.org/products/grave-robbers-from-outer-space-directors-cut",
-    "link_text": "Get it at the ARGH Shop"
+    "link_text": "Get it at the ARGH Shop",
+
+    "languages" : ["fr"]
 }

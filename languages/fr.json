@@ -1,0 +1,1173 @@
+[
+    {
+        "name": "Maman",
+        "quote": "\"Viens ici, mon bébé. Maman va tout arranger...\"",
+        "abilities": "Gagne +1 pour chaque Personnage \"Jeune\" ou \"Famille\" dans le même film. Peut être utilisé comme une attaque \"Psycho\" avec une Attaque = 8 + 1 pour chaque Personnage \"Jeune\" dans le Film ciblé.",
+        "title": "Maison",
+        "number": "01-01"
+    },
+    {
+        "name": "Grande Sœur",
+        "quote": "\"Parce que maman m'a laissée aux commandes, voilà pourquoi! Où est la machette?\"",
+        "abilities": "Gagne +2 en Défense pour chaque Personnage 'Jeune' 'Famille' présent dans le même Film.",
+        "title": "Frangine",
+        "number": "01-02"
+    },
+    {
+        "name": "Petit Frère Agaçant",
+        "quote": "\"Tu ferais mieux de m'emmener avec toi, sinon je dis à maman que tu es un vampire assoiffé de sang!\"",
+        "abilities": "Ne peut pas utiliser d''Armes à Feu'. Ne peut pas être la cible d'attaques de Créatures.",
+        "title": "Agaçant",
+        "number": "01-03"
+    },
+    {
+        "name": "Grand-père",
+        "quote": "\"Je vous l'avais bien dit, les enfants, à propos de jouer avec des choses mortes! APRÈS les devoirs!\"",
+        "abilities": "Une fois par attaque contre votre Film: S'il y a un Personnage 'Jeune' dans votre film, vous pouvez payer 3 Popcorns pour arrêter l'attaque.",
+        "title": "Ancien",
+        "number": "01-04"
+    },
+    {
+        "name": "Conseil Des Fascistes Dérangés",
+        "quote": "\"Pour le bien commun.\" \"Le bien commuuuuuun.\"",
+        "abilities": "'Psycho' — N'importe quel joueur peut utiliser des Accessoires 'Arme' pour booster gratuitement l'attaque des Fascistes.\n\nAttaque = 20 lors d'une attaque contre un Lieu 'Quartier'.",
+        "title": "Contre",
+        "number": "01-05"
+    },
+    {
+        "name": "Jouets Tueurs",
+        "quote": "\"C'est une POUPÉE! Pourquoi ne lui colles-tu pas un bon coup de pied?\" \"On peut vraiment faire ça?\"",
+        "abilities": "Si les Jouets échouent, ils retournent dans la main de leur Contrôleur. Ils ne peuvent pas être utilisés à nouveau pendant ce tour.",
+        "title": "Minions"
+    },
+    {
+        "name": "Allée des Amoureux",
+        "quote": "\"On dirait un parking. Depuis la fermeture du bowling, il n'y a plus rien à faire en ville.\"",
+        "abilities": "Les attaques 'Psycho' réussissent toujours à l'Allée des Amoureux.",
+        "title": "non Partagé"
+    },
+    {
+        "name": "Parc de Caravanes",
+        "quote": "\"Pourquoi essayons-nous encore de sauver ces gens?\"",
+        "abilities": "Tous les Personnages 'Famille' présents dans ce Lieu gagnent +1 en Défense.",
+        "title": "Culte",
+        "number": "01-08"
+    },
+    {
+        "name": "Bandes Dessinées",
+        "quote": "\"C'est exactement comme la fois où le Capitaine Piñata a combattu la Reine Zombie!\"",
+        "abilities": "Payez 2 Popcorns — Si ceci est sur un Personnage 'Jeune', arrêtez une attaque 'Surnaturel' ou 'Monstre' lancée contre votre Film.",
+        "title": "Héros",
+        "number": "01-09"
+    },
+    {
+        "name": "Planche Ouija",
+        "quote": "\"Viens, Elvis! Es-tu là, Elvis?\"",
+        "abilities": "Payez 3 Popcorns — Arrêtez une attaque 'Surnaturel' contre votre Film.",
+        "title": "Prémonition",
+        "number": "01-10"
+    },
+    {
+        "name": "Ha! Ha! Je t'ai Fait Peur!",
+        "quote": "\"Tu devrais voir ta tête...\"",
+        "abilities": "Bloque une attaque de Créature. La Créature retourne dans la main du Joueur attaquant et ce Joueur ne peut plus effectuer d'attaques de Créature pendant ce tour.",
+        "title": "Ténèbres",
+        "number": "01-11"
+    },
+    {
+        "name": "Reine du Cri",
+        "quote": "\"Tu n'as pas peur, n'est-ce pas?\" \"Crois-moi, si j'avais peur, tu l'entendrais bien.\"",
+        "abilities": "S'attacher à un Personnage 'Femme'. Payez 3 Popcorns — Empêchez une attaque contre votre Film.",
+        "title": "Cri",
+        "number": "01-12"
+    },
+    {
+        "name": "Le Chat Dans le Placard",
+        "quote": "\"Ils ont même réussi à faire ça dans Alien.\"",
+        "abilities": "Arrêtez toute carte en cours de jeu. Elle est défaussée. Ceci ne peut pas empêcher un Coup de Théâtre ou le Générique de Fin.",
+        "title": "Surprise"
+    },
+    {
+        "name": "Et Leur Famille Fut Maudite\nDepuis des Générations...",
+        "quote": "\"...sur la tête de ton père, de ton père, de ton père!\"",
+        "abilities": "À partir du prochain tour, lorsque vous avez au moins 2 Personnages 'Famille' dans votre Film, vous pouvez révéler ce Coup de Théâtre. Attachez-le au membre de la 'Famille' ayant la Défense la plus faible. À la fin de chacun de vos tours, celui qui porte la Malédiction meurt. Lorsque son porteur meurt, la Malédiction s'attache au Personnage suivant ayant la Défense la plus faible. Si la Malédiction a elle-même tué au moins 2 personnages 'Famille' et qu'il n'en reste plus aucun, Collectionnez-la. Sinon, défaussez-la.",
+        "title": "Malédiction",
+        "number": "01-14"
+    },
+    {
+        "name": "Et Nous Apprenons\nLes Péchés du Père!",
+        "quote": "\"P-papa...? C'est toi?\"",
+        "abilities": "Jouez avec une Créature face cachée. S'il y a au moins un Personnage 'Famille' dans votre Film et qu'il est attaqué, vous pouvez choisir de Banquer ce Coup de Théâtre. Dans ce cas, révélez la Créature et ajoutez son Attaque à la Défense de votre Film pendant toute la durée de l'attaque. Ensuite, la Créature retourne dans votre main.",
+        "title": "Père",
+        "number": "01-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien, nous avons réussi à nous échapper de la maison de l'horreur, alors c'est forcément fini!\"",
+        "abilities": "",
+        "title": "Famille",
+        "number": "01-16"
+    },
+
+
+
+    {
+        "name": "Vice-Principal du Lycée",
+        "quote": "\"J'en ai assez de vos bêtises, Billy… est-ce une tentacule?\"",
+        "abilities": "'Malchanceux' dans n'importe quel Lieu 'École' (si un choix de Personnages doit mourir dans son Film, il doit être choisi en premier).",
+        "title": "Païen",
+        "number": "02-01"
+    },
+    {
+        "name": "Jeune Fille Livreuse",
+        "quote": "\"Non, c'est bon, vous allez vous baigner. Je reste ici lire...\"",
+        "abilities": "Obtient +2 Défense pour chaque Accessoire 'Livre' qu'elle possède.",
+        "title": "Vierge",
+        "number": "02-02"
+    },
+    {
+        "name": "La Reine du Bal",
+        "quote": "\"Le sang de cochon fait ressortir ses yeux.\"",
+        "abilities": "La Reine du Bal ne peut pas être ciblée par une attaque de Créature à moins qu'elle ne se trouve dans un Lieu 'École'.",
+        "title": "Slasher",
+        "number": "02-03"
+    },
+    {
+        "name": "Prof de Gym",
+        "quote": "\"Tout le monde sait qu'on ne devient pas prof de gym sauf si Satan vous le dit.\"",
+        "abilities": "L'attaquant doit déclarer si le Prof de Gym est 'Aliéne' ou 'Psychopathe' lors de son utilisation. Réussit toujours lorsqu'il attaque un Lieu 'École'.",
+        "title": "Douleur",
+        "number": "02-04"
+    },
+    {
+        "name": "Loup-Garou Adolescent",
+        "quote": "\"Les garçons, quand ils atteignent un certain âge, commencent à ressentir… des changements.\"",
+        "abilities": "Réussit toujours dans les Lieux 'Quartier'.",
+        "title": "Loup",
+        "number": "02-05"
+    },
+    {
+        "name": "Robot Maléfique",
+        "quote": "\"FUMIGUER! FUMIGUER! \" \"Vous voulez dire 'exterminer' ?\" \"PEU IMPORTE!\"",
+        "abilities": "Psychopathe — N'importe quel Joueur peut jouer des Requis 'Arme' pour augmenter l'Attaque du Robot gratuitement.  Ne peut pas attaquer les Lieux 'Aquatique'.",
+        "title": "Mécanique",
+        "number": "02-06"
+    },
+    {
+        "name": "Lycée",
+        "quote": "\"Je ne veux pas y retourner ! Cet endroit est plein de mutants et de monstres ! \" \"Mais chéri, tu dois. Tu es le vice-principal.\"",
+        "abilities": "Défense = 5 si le « Vice-Principal du Lycée » est présent..",
+        "title": "Orgie",
+        "number": "02-07"
+    },
+    {
+        "name": "Siège Arrière de la Voiture",
+        "quote": "\"Billy, noooon... Arrête... Bon, juste cette fois... Dis, est-ce une tentacule ?\"",
+        "abilities": "",
+        "title": "Copain",
+        "number": "02-08"
+    },
+    {
+        "name": "Grimoire",
+        "quote": "\"Pourquoi est-ce toujours en latin ?\"",
+        "abilities": "Payez 2 Pop-corn — Si sur un Personnage 'Intelligent', arrêtez une attaque 'Surnaturelle' faite contre votre Film.",
+        "title": "Démon",
+        "number": "02-09"
+    },
+    {
+        "type": "prop",
+        "name": "Livre des Morts",
+        "quote": "\"Klaatu! Berada!... Nettoyé!...\"",
+        "abilities": "Les attaques de 'Zombie' contre votre Film coûtent 1 Popcorn supplémentaire.",
+        "title": "Vorace de Chair",
+        "number": "02-10"
+    },
+    {
+        "name": "Film Culte",
+        "quote": "\"Je n'arrive pas à croire que tu n'aies pas vu 'Teenage Blood Feast'…\"",
+        "abilities": "Piochez deux cartes supplémentaires.",
+        "title": "Libéré",
+        "number": "02-11"
+    },
+    {
+        "name": "Se Baigner à la Sauvette ?\nAllons-y !",
+        "quote": "\"Pendant qu'on attend que Billy revienne, pourquoi ne pas aller nous baigner ?\"",
+        "abilities": "Après l'utilisation de cette carte, vous devez payer un Popcorn pour chaque Personnage 'Jeune' NON-'Vierge' dans le Film cible. Si vous le faites, ils meurent tous.",
+        "title": "Nu"
+    },
+    {
+        "name": "Nous Avons Vu Tes Seins\nMaintenant Tu Dois Mourir !",
+        "quote": "\"Ne jamais faire l'amour dans un film d'horreur. JAMAIS.\"",
+        "abilities": "Tuer un Personnage 'Femme' NON-'Vierge'.",
+        "title": "Révélé",
+        "number": "02-13"
+    },
+    {
+        "name": "Mais Juste Avant Le Bal…",
+        "quote": "\"Tu veux aller au bal avec moi ? \" \"Bien sûr ! J'avais un peu faim…\"",
+        "abilities": "Au début de votre prochain tour, vous pouvez Marquer ce Coup de Théâtre si vous avez un Personnage 'Homme' et un Personnage 'Femme' dans votre Film. Si vous le faites, tuez l'un d'eux, Marquer leur Défense imprimée et vous pouvez faire une attaque 'Surnaturelle' contre un Opponent de votre choix pour 3x leur Défense combinée.",
+        "title": "Rendez-vous",
+        "number": "02-14"
+    },
+    {
+        "type": "plot-twist",
+        "name": "Malgré Tout Ils Ont Tous\nObtenu Leur Diplôme !",
+        "quote": "\"Félicitations à la classe de finissants de l'Amityville High ! \"",
+        "abilities": "Au début de votre prochain tour, vous pouvez marquer ce coup de théâtre si vous avez au moins deux Personnages 'Jeune' dans votre Film. Tous les Personnages 'Jeune' dans votre Film sont 'Intelligents' et ont +2 Défense. (Cela ne s'additionne pas avec « Edjumicated » .)",
+        "title": "École",
+        "number": "02-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien l'école a explosé et les monstres ont tous disparu, donc je suppose que c'est fini !\"",
+        "abilities": "",
+        "title": "Éducation",
+        "number": "02-16"
+    },
+
+
+    {
+        "name": "Vieux Logeur Malfaisant",
+        "quote": "\"Je suppose que vous voudrez prendre une douche ?\"",
+        "abilities": "Peut être joué comme une attaque 'Psychopathe' avec une Force d'Attaque de 10 + le nombre de Personnages 'Femme' dans le Film adverse.",
+        "title": "Démon",
+        "number": "03-01"
+    },
+    {
+        "name": "Jeune Fille Riche Gâtée",
+        "quote": "\"Billy a peut-être fait du camping avec TOI, mais il rentre chez moi… ou dans un sac à corps !\"",
+        "abilities": "Votre limite de main est augmentée de 1 tant qu'elle est jouée dans votre Film.",
+        "title": "Jalouse",
+        "number": "03-02"
+    },
+    {
+        "name": "Gardien de Parc",
+        "quote": "\"Ce hurlement ? C’est probablement juste un loup-garou…\"",
+        "abilities": "Défense = 5 dans n’importe quel Lieu 'Naturel'.",
+        "title": "Mystérieux",
+        "number": "03-03"
+    },
+    {
+        "name": "Arachnophobie",
+        "quote": "\"Une phobie est une peur irrationnelle. Il n'y a RIEN d'irrationnel à avoir peur de ces bestioles visqueuses!\"",
+        "abilities": "'Essaim' – La Défense des Accessoires 'Arme' = 0 contre l'Arachnophobie.",
+        "title": "Araignée",
+        "number": "03-04"
+    },
+    {
+        "name": "Monstre Gélatineux",
+        "traits": [
+            "Alien",
+            "Monster"
+        ],
+        "stat": "11",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"J-E-L-L-Uh oh!\"",
+        "abilities": "Gagne +1 Attaque pour chaque Personnage dans le Film ciblé.",
+        "title": "Visqueux",
+        "number": "03-05"
+    },
+    {
+        "name": "Créatures Spatiales",
+        "quote": "\"Awww ! C'est tellement mignon, oui, c'est ça... AAAAAH ! Il m'a mangé la face !\"",
+        "abilities": "Si les Créatures Spatiales échouent contre un Film avec un Personnage 'Jeune', une fois l'attaque terminée, elles sont jouées dans ce Film comme un Personnage avec Défense = 4 et le trait 'Intelligent'.",
+        "title": "Aliens",
+        "number": "03-06"
+    },
+    {
+        "name": "Camp Lac Zirconia",
+        "quote": "\"Je n'ai jamais vu de camp de vacances avec sa propre morgue.\" \"Vous ne devriez pas savoir à quel point c'est pratique…\"",
+        "abilities": "Les attaques 'Psychopathe' réussissent toujours au Lac Zirconia.",
+        "title": "Psychopathe",
+        "number": "03-07"
+    },
+    {
+        "name": "Cabane dans les Bois",
+        "quote": "\"Avons-nous laissé la porte ouverte ?\" \"Il devait y avoir le vent.\"",
+        "abilities": "Défense = -4 contre les attaques 'Psychopathe'.",
+        "title": "Abandonnée",
+        "number": "03-08"
+    },
+    {
+        "name": "Bateau à Rames",
+        "quote": "\"Rame, rame, sur ton bateau, doucement vers ta mort.\"",
+        "abilities": "Défense = 6 lorsqu'il se trouve dans un Lieu 'Aquatique'.",
+        "title": "Noyade",
+        "number": "03-09"
+    },
+    {
+        "name": "Véhicule Récréatif",
+        "quote": "\"Ce n'est peut-être pas rapide, mais vous devriez voir comment il écrase les zombies !\"",
+        "abilities": "Payez 3 Popcorn — Arrête une attaque de 'Zombie' contre votre Film.",
+        "title": "Perdu",
+        "number": "03-10"
+    },
+    {
+        "name": "Séparons-Nous",
+        "quote": "\"Vous restez ici tout seul, et je vais voir ce qui s'est passé avec tout le monde…\"",
+        "abilities": "Jouez avec une Créature. Choisissez un Personnage à cibler comme victime de l'attaque en cours. La Défense et les Capacités de tous les autres Personnages sont ignorées jusqu'à la fin de l'attaque.",
+        "title": "Mort",
+        "number": "03-11"
+    },
+    {
+        "name": "Croisement 60s Campé",
+        "traits": [],
+        "stat": "",
+        "popcorn": "2",
+        "bucket": false,
+        "quote": "\"Abbott & Costello rencontrent le Monstre Gélatineux ? Vous plaisantez ?\"",
+        "abilities": "Vous pouvez Combiner une carte Créature de votre main pour rejoindre l'attaque en cours sans frais supplémentaires. Les Traits et les Capacités des deux Créatures s'appliquent et, en cas de succès, vous pouvez tuer un Personnage supplémentaire.",
+        "title": "Ombre",
+        "number": "03-12"
+    },
+    {
+        "name": "Fièvre de la Cabane",
+        "quote": "\"Je n'arrive pas à respirer ! Je dois sortir d'ici… GAH ! ARGH ! GLOUGLOU !\"",
+        "abilities": "La Défense d'un Lieu = -3 jusqu'à la fin de l'attaque en cours.",
+        "title": "Désespéré",
+        "number": "03-13"
+    },
+    {
+        "type": "plot-twist",
+        "name": "Et Ils Se Sont Perdus dans le Noir !",
+        "quote": "\"Oh non ! Ils ont pris Billy !\"",
+        "abilities": "Vous pouvez choisir de Marquer ce Coup de Théâtre lorsque vous avez plus d'un Personnage en jeu et qu'un Opponent a choisi une Victime après une attaque réussie contre vous. Tous vos Personnages se retournent sur le dos, vous les mélangez, et l'Opponent en choisit un au hasard. Ce Personnage meurt. Marquer sa Défense imprimée. Vous pouvez redistribuer leurs Accessoires parmi vos autres Personnages.",
+        "title": "Ténèbres",
+        "number": "03-14"
+    },
+    {
+        "type": "plot-twist",
+        "name": " Et Ils N'Arrêtaient Pas\nde Sortir des Bois !",
+        "quote": "\"Il doit y avoir un nid de monstres quelque part…\"",
+        "abilities": "Au début de votre prochain tour, vous pouvez Marquer ce Coup de Théâtre si vous avez au moins un 'Monstre' dans votre Cimetière. Si vous le faites, une fois par tour, vous pouvez prendre un 'Monstre' de votre choix dans votre Cimetière et le placer face visible, sous cette carte. Vous pouvez attaquer avec ce 'Monstre' comme s'il était dans votre main, mais après, il est retiré du jeu.",
+        "title": "Bois",
+        "number": "03-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Regarde ! Du soleil ! Nous nous en sommes sortis !\"",
+        "abilities": "",
+        "title": "Forêt",
+        "number": "03-16"
+    },
+
+
+
+    {
+        "name": "Chasseuse de Prime Spatiale",
+        "quote": "\"Regarde cette petite chose. Elle va te bouffer la face.\"",
+        "abilities": "Défense = 8 durant les attaques 'Aliène'.",
+        "title": "Capturée",
+        "number": "04-01"
+    },
+    {
+        "name": "Journaliste",
+        "quote": "\"Pouvez-vous confirmer les rumeurs d'un lézard géant qui sévit ?… Chrissy ? On est en direct… Chrissy ?\"",
+        "abilities": "Payez 2 Pop-corn — Forcez un Opponent cible à révéler sa main.",
+        "title": "Vengeance",
+        "number": "04-02"
+    },
+    {
+        "name": "Touriste Spatial Malchanceux",
+        "quote": "\"Amenez-moi vers votre bleep-blorp-zut! Ce traducteur !\"",
+        "abilities": "Défense = 6 durant les attaques 'Aliène'.",
+        "title": "Silencieux",
+        "number": "04-03"
+    },
+    {
+        "name": "Pod People",
+        "quote": "\"Rejoignez-nous… Rejoignez-nous… Allez, rejoignez-nous déjà !\"",
+        "abilities": "Si les Pod People réussissent, au lieu de tuer une Victime, vous pouvez choisir de voler un nombre quelconque de Personnages du Film adverse et les placer dans votre Film moyennant un supplément de 2 Pop-corn chacun. Les Accessoires attachés à ces Personnages sont jetés.",
+        "title": "Essaim",
+        "number": "04-04"
+    },
+    {
+        "name": "Mimique de la Planète Uranusse",
+        "quote": "\"Ne t'inquiète pas, pote. Je suis juste derrière toi !\"",
+        "abilities": "Si le Mimique réussit, il est attaché au Personnage du Film de la victime ayant la défense imprimée la plus faible (l'Attaquant choisit en cas d'égalité). À la fin du tour de ce Joueur, il tue ce Personnage et se fixe sur le Personnage suivant avec la défense la plus faible. S'il n'y a plus de Personnages, ou si le Personnage auquel il est attaché est tué, il meurt.",
+        "title": "Secret",
+        "number": "04-05"
+    },
+    {
+        "name": "Pilleurs De Tombes De L'Espace",
+        "quote": "\"Stupides Terriens ! Regardez comment ils enterrent leurs morts au lieu de récolter les pièces pour la science… et la SOUPE !\"",
+        "abilities": "Gagne +1 Attaque pour chaque Personnage dans le Cimetière de l'Opponent lorsque ce Pilleur a été joué.",
+        "title": "Interdit",
+        "number": "04-06"
+    },
+    {
+        "name": "Quartier Général Alien",
+        "quote": "\"CHHHUT !\" \"Je n'ai rien dit.\" \"Ce n'était pas moi. Je crois que c'était la porte…\"",
+        "abilities": "Défense = -5 contre les attaques 'Aliène'.",
+        "title": "Intergalactique",
+        "number": "04-07"
+    },
+    {
+        "name": "Laboratoire Secret du Gouvernement",
+        "quote": "\"Cette porte a-t-elle toujours été là ?\" \"Oui.\" \"Et le scanner rétinien ?\"",
+        "abilities": "Peut être Combiné avec n'importe quel Lieu non ‘Souterrain’.",
+        "title": "Dissimulation",
+        "number": "04-08"
+    },
+    {
+        "name": "Lampe de Poche",
+        "quote": "\"Génial ! Maintenant on peut la voir avant qu’elle ne nous tue.\"",
+        "abilities": "Défense = 4 dans n’importe quel Lieu 'Souterrain'.",
+        "title": "Tête-à-Queue",
+        "number": "04-09"
+    },
+    {
+        "name": "Fusil",
+        "quote": "\"Qu'est-ce que tu veux dire, les armes ne marchent pas ?!\" BANG! \"Ça marche pour moi !\"",
+        "abilities": "",
+        "title": "Tir",
+        "number": "04-10"
+    },
+    {
+        "name": "Rayons Désintégrants",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Qu'est-ce que tu crois que ce bouton fait ?\"",
+        "abilities": "Double ou divise par deux la Force de l'Attaque ‘Aliène’ en cours.",
+        "title": "Laser",
+        "number": "04-11"
+    },
+    {
+        "name": "Nous Venons en Paix",
+        "traits": [],
+        "stat": "",
+        "popcorn": "1",
+        "bucket": false,
+        "quote": "\"Oh ! Ils sont comme des petits enfants.\" \"Des enfants qui ont maîtrisé les voyages interstellaires ?\"",
+        "abilities": "Ajoutez +5 à la Défense en cours, ou arrêtez une attaque 'Aliène'. Placez cet 'Aliène' dans votre main si vous avez l'Officier Militaire dans votre Film.",
+        "title": "Calme",
+        "number": "04-12"
+    },
+    {
+        "name": "Soucoupes Volantes",
+        "quote": "\"En fait, c'est juste un bouchon de voiture.\"",
+        "abilities": "L'attaque en cours gagne +5 Attaque et le Trait 'Aliène'. Si elle était déjà 'Aliène', vous pouvez doubler son Attaque à la place.",
+        "title": "Planète",
+        "number": "04-13"
+    },
+    {
+        "name": "Et Ils Ont Été Tués\nPar Quelque Chose d'Innocent...",
+        "quote": "\"Ils ont été tués par des bactéries courantes ?!\"",
+        "abilities": "Au début de votre prochain tour, vous pouvez choisir de Marquer ce Coup de Théâtre si vous avez un Accessoire NON-'Arme' dans votre Film et que vous avez soit un 'Aliène' dans votre Film, soit avez été attaqué par un 'Aliène'. Si c'est le cas, arrêtez ou jetez l'attaque 'Aliène' et choisissez un Trait parmi l'un de vos Accessoires NON-'Arme'. Tous les Accessoires de votre Film ayant ce Trait ont une Défense doublée.",
+        "title": "Microbes",
+        "number": "04-14"
+    },
+    {
+        "type": "plot-twist",
+        "name": "Et C'était Soudain Une\nGuerre Intergalactique !",
+        "quote": "\"Je suis Mary Poppins, les gars ! \" \"Quoi ? \" \"Désolé...\"",
+        "abilities": "Jouez avec une Créature 'Aliène' face cachée en dessous. Lorsque votre Film est attaqué par un 'Aliène', vous pouvez choisir de Marquer ce Coup de Théâtre. Si vous le faites, révélez l''Aliène' et ajoutez sa Force d'Attaque à la Défense de votre Film pour la durée de l'attaque. Ensuite, la Créature retourne dans votre main.",
+        "title": "Ex Machina",
+        "number": "04-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Continuez à regarder les cieux !\"",
+        "abilities": "",
+        "title": "Espace",
+        "number": "04-16"
+    },
+
+
+
+    {
+        "name": "Officier Militaire",
+        "quote": "\"Tu n'as pas l'uniforme, soldat. Bottes non cirées, sang sur ton manteau. Y a-t-il un cerveau coincé entre tes dents ?\"",
+        "abilities": "Vous pouvez distribuer deux Accessoires au Personnage Militaire à chaque tour tant qu'un d'eux est une 'Arme'.",
+        "title": "Autorité",
+        "number": "05-01"
+    },
+    {
+        "name": "Policier de Quartier",
+        "quote": "\"Veiller sur les citoyens... éternellement.\"",
+        "abilities": "Peut être joué comme une attaque 'Psychopathe' avec une Force d'Attaque de 10.\n\n'Policier' — Obtient 2x le bonus des Accessoires 'Arme'.",
+        "title": "Cyborg",
+        "number": "05-02"
+    },
+    {
+        "name": "Routier Post-Apocalyptique",
+        "quote": "\"Je serais fou, moi aussi, si je devais porter de vieilles pneus comme ça.\"",
+        "abilities": "Gagne +2 Défense pour chaque 'Véhicule' dans le même Film.",
+        "title": "Armée",
+        "number": "05-03"
+    },
+    {
+        "name": "Limaces Carnivores",
+        "quote": "\"Beurk ! Pourquoi mon siège est-il tout gluant ?\"",
+        "abilities": "'Essaim' – La Défense des Accessoires 'Arme' = 0 contre les Limaces.",
+        "title": "Affreux",
+        "number": "05-04"
+    },
+    {
+        "name": "Dites-moi, Est-ce Une Tentacule ?",
+        "quote": "\"Je n'ai pas commandé de calamars… GAH ! ARGH ! GLOUGLOU !\"",
+        "abilities": "'Aquatique' – La Force d'Attaque est doublée si l'attaque est dirigée vers un Lieu 'Aquatique'. Après la fin de cette attaque, le Joueur cible place les 3 premières cartes de son Deck dans le Cimetière.",
+        "title": "Tentacule",
+        "number": "05-05"
+    },
+    {
+        "name": "Nuée de Petits Monstres",
+        "quote": "\"Alors, ce type achète un petit monstre pour son enfant comme cadeau de Noël ? Parentalité de premier ordre.\"",
+        "abilities": "Gagne +2 Attaque pour chaque Accessoire dans le Film cible.",
+        "title": "Treize",
+        "number": "05-06"
+    },
+    {
+        "name": "Terrains d’Essais Nucléaires Abandonnés",
+        "quote": "\"Les mutants d’ici prononcent ça “nuke-u-laire.”\"",
+        "abilities": "Chaque fois qu'une attaque est lancée sur les Terrains d'Essais, n'importe quel Joueur peut payer pour Combiner une Créature 'Monstre' de son choix avec l'attaque, et s'ils réussissent, ils peuvent tuer un autre Personnage.",
+        "title": "Terres Désolées",
+        "number": "05-07"
+    },
+    {
+        "name": "Bâtiment Abandonné",
+        "quote": "\"On dirait un endroit effrayant, mais peut-être qu'ils ont un téléphone.\" \"Ouais, un téléphone effrayant.\"",
+        "abilities": "Lorsque cette carte quitte le jeu, placez-la et 5 cartes aléatoires de votre Cimetière au bas de votre Deck.",
+        "title": "Vide",
+        "number": "05-08"
+    },
+    {
+        "name": "Pistolet",
+        "quote": "BANG ! BANG ! BANG ! BANG ! BANG ! BANG ! CLIC, CLIC, CLIC… \"Merde!\"",
+        "abilities": "Si le Pistolet est dans votre Cimetière, vous pouvez payer 3 Pop-corn pour le mélanger à nouveau dans votre Deck.",
+        "title": "Armé",
+        "number": "05-09"
+    },
+    {
+        "name": "Lance-Flammes",
+        "quote": "\"On cuisine avec de la chaleur maintenant !\"",
+        "abilities": "La Défense du Lance-Flammes compte contre les attaques 'Essaim'.",
+        "title": "Brasier",
+        "number": "05-10"
+    },
+    {
+        "name": "Retour à la Maison de Retraite",
+        "quote": "\"Que fais-tu si tard de la nuit, Grand-père ?\"",
+        "abilities": "Tuez un Personnage 'Vieux' quelconque.",
+        "title": "Démoniaque",
+        "number": "05-11"
+    },
+    {
+        "name": "Visez la Tête, les Gars !",
+        "quote": "\"Avalez du plomb, salopard visqueux et non-mort !\"",
+        "abilities": "Jouez pour arrêter une attaque de 'Zombie' tant que le Film cible a au moins un Accessoire 'Arme au Feu' OU ajoutez +3 Défense contre n'importe quelle attaque pour chaque 'Arme au Feu' dans le Film cible.",
+        "title": "Décapité",
+        "number": "05-12"
+    },
+    {
+        "name": "Montage du Réalisateur",
+        "quote": "\"Mon film n'a PAS besoin d'une voix off!\"",
+        "abilities": "Inversez l'issue d'une attaque après qu'elle ait été résolue. (Si c'est un succès, c'est un échec et vice versa.)",
+        "title": "Hurlement",
+        "number": "05-13"
+    },
+    {
+        "name": "Fusil de Tchekhov",
+        "quote": "\"Règle n° 1 de le Fusil de Tchekhov : Avoir un fusil.\"",
+        "abilities": "Lorsque votre Film est attaqué et qu'il y a un Accessoire 'Arme au Feu' dans votre Cimetière dont la Défense ajoutée modifierait l'issue, vous pouvez marquer ce Coup de Théâtre et jouer l''Arme au Feu' sur l'un de vos Personnages gratuitement, en ignorant la Limite d'Accessoires.",
+        "title": "Bataille",
+        "number": "05-14"
+    },
+    {
+        "name": "Et Ils L'Ont Rendue Plus Forte,\nMildement Plus Agressive!",
+        "quote": "\"Protègez les innocents, faites respecter la loi !\"",
+        "abilities": "Au début de votre prochain tour, vous pouvez Marquer ce Coup de Théâtre si vous avez un Personnage 'Policier' ou 'Militaire' et une 'Arme au Feu' dans votre Cimetière. Si c'est le cas, jouez le Personnage dans votre Film et retirez l'Accessoire du jeu. Il acquiert alors le Trait 'Cyborg' et les Défenses et Capacités ajoutées de l'Accessoire comme s'il les portait. Marquez la Défense imprimée du Personnage.",
+        "title": "Machine",
+        "number": "05-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Bien tiré, fils. Comment t'appelles-tu ?\"",
+        "abilities": "",
+        "title": "Policier",
+        "number": "05-16"
+    },
+
+
+
+    {
+        "name": "Type Que Tout Le Monde Sait Qu'on Va Tuer",
+        "quote": "\"Je sais qu'il y a un tueur en liberté, alors je vais me promener dans le noir…\"",
+        "abilities": "'Malchanceux' – Si un choix de Personnages doit être éliminé dans son Film, ce type doit être choisi en premier.",
+        "title": "Radioactif",
+        "number": "06-01"
+    },
+    {
+        "name": "Jeune Fille Nervieuse",
+        "quote": "\"Tu DIS que tout va bien, mais TU NE SAIS PAS ! Billy a dit la même chose et regarde ce qui lui est arrivé !\"",
+        "abilities": "Payez 2 Pop-corn — Faites de la Jeune Fille Nervieuse la Cible d'une attaque de Créature dirigée vers votre Film.",
+        "title": "Folle",
+        "number": "06-02"
+    },
+    {
+        "name": "Voyou Adolescent",
+        "quote": "\"Je vais camper sur ta pelouse si je le veux, vieux !\"",
+        "abilities": "Gagne +1 Défense pour chaque 'Arme' qu'il possède. Perd -1 Défense pour chaque Personnage 'Vieux' dans le même Film.",
+        "title": "Tunnel",
+        "number": "06-03"
+    },
+    {
+        "name": "Zombies Issus Des Enfers",
+        "quote": "\"Je ne pensais pas que nous utilisions le mot en « z »...\"",
+        "abilities": "Lorsque les Zombies Issus des Enfers sont joués, l'Attaquant peut choisir de leur donner le trait 'Surnaturel'.",
+        "title": "Griffes",
+        "number": "06-04"
+    },
+    {
+        "name": "Momie",
+        "quote": "\"Regarde comme il est magnifiquement conservé… GAK ! ARGH ! GLOUGLOU !\"",
+        "abilities": "La Momie réussit toujours lorsqu'elle attaque un Lieu 'Mortuaire'.",
+        "title": "Tombeau",
+        "number": "06-05"
+    },
+    {
+        "name": "Membres Découpés",
+        "quote": "\"Si ce sont tes mains, de quelle main est sur MON CUL ?\"",
+        "abilities": "Quel que soit le résultat, après la fin de cette attaque, placez les Membres au bas du Deck.",
+        "title": "Païen",
+        "number": "06-06"
+    },
+    {
+        "name": "Tombeau",
+        "quote": "\"L'inscription dit : 'Tous ceux qui entreront dans le lieu sacré de repos de Ra-tep souffriront d'une mort la plus horrible.' Bon, entrons.\"",
+        "abilities": "Défense = -5 pendant les attaques 'Surnaturelles'.",
+        "title": "Terreur",
+        "number": "06-07"
+    },
+    {
+        "name": "Maison Près du Cimetière",
+        "quote": "\"Qu'est-ce que c'est que de vivre à côté d'un cimetière ?\" \"Calme. Généralement…\"",
+        "abilities": "Défense = -3 pendant les attaques 'Zombie' ou 'Vampire'. Peut être Combiné avec n'importe quel Lieu 'Mortuaire'.",
+        "title": "Non-Mort",
+        "number": "06-08"
+    },
+    {
+        "name": "Tronçonneuse",
+        "quote": "\"Groovy.\"",
+        "abilities": "Ajoute +12 à une attaque lorsqu’elle est jouée sur un Personnage 'Psychopathe'.",
+        "title": "Déchirante",
+        "number": "06-09"
+    },
+    {
+        "name": "Fusil à Plombs",
+        "quote": "\"Bien... Mauvais… Je suis celui qui a le fusil.\"",
+        "abilities": "À votre tour, vous pouvez soit placer la carte du dessus du Deck au Cimetière, soit placer la carte du dessus du Cimetière au bas de votre Deck.",
+        "title": "Partie IV",
+        "number": "06-10"
+    },
+    {
+        "name": "Oh Mon Dieu,\nIls Ont Attrapé Billy !",
+        "quote": "\"Billy, ça va ? Dis quelque chose, mon pote.\" \"Braaaaains!\" \"Dis autre chose?\"",
+        "abilities": "Prenez un Personnage du Cimetière et utilisez-le pour effectuer une attaque 'Zombie' 'Surnaturelle' dont la force est le triple de la Défense imprimée du Personnage.",
+        "title": "Malédiction",
+        "number": "06-11"
+    },
+    {
+        "name": "Renforts",
+        "quote": "\"Je peux contrôler les Armées des Morts ? Génial !\"",
+        "abilities": "Doublez soit la Force de l’Attaquant, soit la Défense du Défenseur.",
+        "title": "Mugissement",
+        "number": "06-12"
+    },
+    {
+        "name": "Cohérence, Quoi !",
+        "quote": "\"Ce type n'est-il pas mort il y a à peine vingt minutes ?\"",
+        "abilities": "Sortez un Personnage du Cimetière et intégrez-le au Film de votre choix sans frais supplémentaires.",
+        "title": "Rencontre",
+        "number": "06-13"
+    },
+    {
+        "name": "Et Ils Se Sont Relèvees des Tombes !",
+        "quote": "\"Lève-toi ! Sers-moi !…\" Ngn… ngh…",
+        "abilities": "Au début de votre prochain tour, vous pouvez marquer ce Coup de Théâtre si vous avez au moins trois Personnages dans votre Cimetière. Si c'est le cas, faites revenir 3 d'entre eux dans votre Film gratuitement. Ils sont maintenant 'Stupides', 'Surnaturels' et 'Zombie' et ne peuvent pas utiliser d'Abilités, de Pop-corn ou d'Accessoires.",
+        "title": "Marcheurs",
+        "number": "06-14"
+    },
+    {
+        "name": "Et Elles Sont Revenues avec des Renforts !",
+        "quote": "\"TLes zombies se coordonnent !\"",
+        "abilities": "Au début de votre prochain tour, vous pouvez marquer ce Coup de Théâtre si vous avez au moins deux Créatures dans votre Cimetière. Si vous le faites, vous pouvez attaquer un Opponent cible avec deux Créatures quelconques de votre Cimetière combinées en une seule attaque (elles combinent Attaque et Abilités) avec les Traits additionnels 'Surnaturel' et 'Zombie'. Si vous réussissez, vous pouvez éliminer un Personnage supplémentaire.",
+        "title": "Phalang",
+        "number": "06-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien, les flics sont venus et ont abattu le dernier survivant, alors je suppose que c'est fini !\"",
+        "abilities": "",
+        "title": "Zombie",
+        "number": "06-16"
+    },
+
+
+
+     
+    {
+        "name": "Robot",
+        "quote": "\"Je ne suis qu'un robot, mais vous ne pouvez pas Ctrl+Alt+Suppr mon cœur.\"",
+        "abilities": "Payez 3 Pop-corn — Sauvez un Personnage 'Jeune' qui vient d'être tué dans votre Film. Il reste en jeu plutôt que d'aller au Cimetière.",
+        "title": "Massacre",
+        "number": "07-01"
+    },
+    {
+        "name": "Cyborg du Désert",
+        "quote": "\"Homme de métal et de déchets ? Bien sûr, ça perd quelque chose en traduction...\"",
+        "abilities": "Gagne +3 Défense s'il se trouve dans un Lieu 'Scientifique'.",
+        "title": "Crâne",
+        "number": "07-02"
+    },
+    {
+        "name": "Skippy le Chien Merveilleux",
+        "quote": "\"Qu'est-ce que c'est Skippy ? Le torse de Billy est dans le puits ?\"",
+        "abilities": "'Animal' - Ne peut utiliser que des Accessoires 'Vêtements'.",
+        "title": "Compagnon",
+        "number": "07-03"
+    },
+    {
+        "name": "OGM Monstrueux",
+        "quote": "\"Moitié humain, moitié serpent. Tout Serpomme !\"",
+        "abilities": "Quand joué, vous pouvez donner à l'OGM tous les Traits Créature que vous souhaitez parmi les Créatures actuellement dans le Cimetière du Film ciblé. Chaque Trait ajouté de cette façon donne à l'OGM +5 Attaque.",
+        "title": "Souillé",
+        "number": "07-04"
+    },
+    {
+        "name": "Scientifique Fou",
+        "quote": "\"Et ils m'ont qualifié de FOU au collège communautaire... !\"",
+        "abilities": "'Psycho' — N'importe quel Joueur peut jouer des Accessoires 'Arme' pour augmenter l'attaque du Docteur gratuitement. Peut être utilisé comme un Effet spécial pour tripler la force actuelle d'une attaque.",
+        "title": "Donjon",
+        "number": "07-05"
+    },
+    {
+        "name": "Docteur Dément",
+        "quote": "\"La vie est une maladie incurable… Et le seul remède, c'est la mort.\"",
+        "abilities": "'Psycho' — N'importe quel Joueur peut jouer des Accessoires 'Arme' pour augmenter l'attaque du Docteur gratuitement. Réussit toujours lorsqu'il attaque un 'Hôpital'.",
+        "title": "Suicide",
+        "number": "07-06"
+    },
+    {
+        "name": "Asile d'Aliénés",
+        "quote": "\"Attention patients : le lithium n'est plus disponible à crédit.\"",
+        "abilities": "Payez 2 Pop-corn à votre tour — Choisissez un de vos Personnages. Effectuez une attaque 'Psycho' contre un autre Film avec une Attaque égale à sa Défense et aux cartes attachées. Vous ne pouvez pas choisir ce Personnage à nouveau pendant votre tour.",
+        "title": "Sous-Humain",
+        "number": "07-07"
+    },
+    {
+        "name": "Laboratoire",
+        "quote": "\"C'est vivant. VIVANT !!!\"",
+        "abilities": "Payez 3 Pop-corn à votre tour — Ramenez un Personnage du Cimetière. Il devient 'Stupide', ne peut utiliser que des Accessoires 'Vêtements'.",
+        "title": "Ressuscité",
+        "number": "07-08"
+    },
+    {
+        "name": "Trousse à Outils",
+        "quote": "\"Voyons voir, je sais que j'en ai un de ces salauds par ici quelque part...\"",
+        "abilities": "Payez 2 Pop-corn à votre tour — Prenez un Accessoire du Cimetière et mettez-le dans votre main.",
+        "title": "Fantôme",
+        "number": "07-09"
+    },
+    {
+        "name": "Trousse de Premiers Secours",
+        "quote": "\"Je n'ai jamais soigné une blessure de tronçonneuse à la tête auparavant, mais après tout... Passez-moi l'iode !\"",
+        "abilities": "Défaussez un objet de votre Film pour reprendre un Personnage du Cimetière et le jouer gratuitement dans votre Film.",
+        "title": "Créature",
+        "number": "07-10"
+    },
+    {
+        "name": "Coupez !",
+        "quote": "\"Qu'est-ce que vous voulez dire, nous ne pouvons pas nous permettre une seconde prise ?\"",
+        "abilities": "Arrêtez et défaussez une carte Effet spécial lorsqu'elle est jouée.",
+        "title": "Rayon X",
+        "number": "07-11"
+    },
+    {
+        "name": "Dieu du Ciel!\nIls Sont Radioactifs!",
+        "quote": "\"Hé, éteins la lumière.\" \"Je l'ai déjà fait...\"",
+        "abilities": "Doublez la Force actuelle d'une 'Créature'.",
+        "title": "Meurtre",
+        "number": "07-12"
+    },
+    {
+        "name": "C'Était une Nuit Sombre\net Orageuse",
+        "quote": "\"Oh génial, des éclairs violets. Ce n'est jamais bon signe.\"",
+        "abilities": "Jouez cette carte dans votre Film. Toutes les attaques effectuées jusqu'au début de votre prochain tour sont doublées en force, après quoi elle est défaussée.",
+        "title": "Terrible",
+        "number": "07-13"
+    },
+    {
+        "name": "Et Il a Tué Son Créateur!",
+        "quote": "\"Non ! Non ! Je t'ai donné la vie ! ARGH ! GURGLE !\"",
+        "abilities": "Lorsque cette carte est posée face cachée, placez une 'Monstre' Créature face cachée en dessous. À partir du tour suivant, lors de votre tour, vous pouvez Marquer ce Coup de Théâtre en tuant l'un de vos Personnages. Si vous le faites, vous pouvez immédiatement attaquer un Adversaire de votre choix avec le 'Monstre' gratuitement avec un bonus égal au double de la Défense du Personnage sacrifié.",
+        "title": "Vies",
+        "number": "07-14"
+    },
+    {
+        "name": "Et Puis l'Engin du Jugement Dernier\nS'est Déclenché!",
+        "quote": "\"Mais alors TOUT LE MONDE va mourir !\" \"Oui ! Bwahaha ! Attends... quoi ?\"",
+        "abilities": "À votre prochain tour, vous pouvez Marquer ce Coup de Théâtre lorsque vous avez le plus de Personnages en jeu (les égalités ne comptent pas). Si vous le faites, tous les Personnages de tous les Films sont tués.",
+        "title": "Annihilation",
+        "number": "07-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien, le Docteur est mort et sa création erre au clair de lune, je suppose que c'est fini !\"",
+        "abilities": "",
+        "title": "Science",
+        "number": "07-16"
+    },
+
+
+
+
+        {
+        "name": "Prêtre Âgé",
+        "quote": "\"Saint Christ, tu m'as fait peur comme jamais !\"",
+        "abilities": "Défense = 6 lors des attaques 'Surnaturel'.",
+        "title": "Maniaque",
+        "number": "08-01"
+    },
+    {
+        "name": "Chasseur de Vampires Âgé",
+        "quote": "\"La règle d'or pour chasser les vampires est qu'un vampire est bien plus facile à tuer que dix.\"",
+        "abilities": "Défense = 6 contre les attaques 'Vampire'.",
+        "title": "Satanique",
+        "number": "08-02"
+    },
+    {
+        "name": "Voyante",
+        "quote": "\"Je regarde dans votre futur… GAK ! ARGH ! GURGLE…\"",
+        "abilities": "Vous pouvez consulter la première carte de votre deck à tout moment.",
+        "title": "Sort",
+        "number": "08-03"
+    },
+    {
+        "name": "Dracula",
+        "quote": "\"Servez-moi un Bloody Mary. Ou un Bloody Sally. Bon sang, je prendrai même un Bloody Steve à ce stade ! J'ai une faim de loup !\"",
+        "abilities": "Si une attaque avec Dracula réussit, vous pouvez défausser un Personnage ou une Créature de votre main pour reprendre Dracula dans votre main.",
+        "title": "Dracula",
+        "number": "08-04"
+    },
+    {
+        "name": "Cannibales Souterrains",
+        "quote": "\"Vous croyez que ce clown a bon goût ?\"",
+        "abilities": "'Psycho' — N'importe quel Joueur peut jouer des Accessoires 'Arme' pour augmenter l'attaque des Cannibales gratuitement.\nSi les Cannibales réussissent, mettez les 3 premières cartes du Deck du Film ciblé dans le Cimetière.",
+        "title": "Sous",
+        "number": "08-05"
+    },
+    {
+        "name": "Belles Vampires de Plage",
+        "quote": "\"On adore une fille avec une fixation orale…\"",
+        "abilities": "L'attaquant peut les déclarer 'Aquatique' lorsqu'elles sont jouées. Les Belles Vampires de Plage réussissent toujours dans les Lieux 'Aquatique'.",
+        "title": "Séduction",
+        "number": "08-06"
+    },
+    {
+        "name": "Vieille Église",
+        "quote": "\"Nous sommes en mission de Dieu…\"",
+        "abilities": "Immédiatement après avoir rempli votre main en début de tour, défaussez une carte de votre main ou défaussez la Vieille Église. Elle est automatiquement défaussée si vous manquez un tour.",
+        "title": "Impie",
+        "number": "08-07"
+    },
+    {
+        "name": "Hôtel Hanté",
+        "quote": "\"Sur une route du désert sombre…\"",
+        "abilities": "La Défense d'une \"Hache\" = 8 dans l'Hôtel Hanté. \"Vieux Logeur Malfaisant\" réussit toujours lorsqu'il attaque ce Lieu.",
+        "title": "Invisible",
+        "number": "08-08"
+    },
+    {
+        "name": "Reliques Sacrées",
+        "quote": "\"Eau bénite, balles d'argent, crucifix... cette chose a tout. C'est le couteau suisse de Dieu !\"",
+        "abilities": "Lors des attaques 'Surnaturel', Défense = 4, ou = 10 entre les mains du 'Chasseur de Vampires Âgé', ou = 12 avec le 'Prêtre Âgé'.",
+        "title": "Rituel",
+        "number": "08-09"
+    },
+    {
+        "name": "Cape Noire",
+        "quote": "\"Comme un Snuggie, mais maléfique.\"",
+        "abilities": "Le Personnage portant la Cape ne peut pas être ciblé par des attaques de Créature, à moins qu'il n'y ait pas d'autre choix. Cela ne protégera pas les Personnages 'Malchanceux', cependant.",
+        "title": "Menteur",
+        "number": "08-10"
+    },
+    {
+        "name": "Mais Il Était Juste Il Y a Une Minute",
+        "quote": "\"Jamais peur ! Les vampires peuvent toujours être contrés par... dites, quelqu'un a-t-il vu mon amulet de Saint Shrivens ?\"",
+        "abilities": "Défaussez n'importe quel Accessoire du jeu.",
+        "title": "Globe Oculaire",
+        "number": "08-11"
+    },
+    {
+        "name": "Pourquoi Tu N'As Pas Mouru ?",
+        "quote": "\"Je suppose que se faire broyer par une ensileuse n'est pas aussi mortel qu'on le pensait…\"",
+        "abilities": "Après l'attaque de Créature actuelle, remettez la Créature dans votre main.",
+        "title": "Peur",
+        "number": "08-12"
+    },
+    {
+        "name": "Hanté",
+        "quote": "\"Cool ! Les murs se peignent eux-mêmes !\" \"Ce n'est pas de la peinture, idiot. C'est du sang.\"",
+        "abilities": "Fixez-le à un Lieu. La Défense de ce Lieu = -7 contre les attaques 'Surnaturel'.",
+        "title": "Mort",
+        "number": "08-13"
+    },
+    {
+        "name": "Et Ils Ont Trouvé Son Coffre !",
+        "quote": "\"C'est là qu'il dort !\" \"Et où est-IL ?\"",
+        "abilities": "À partir du début de votre prochain tour,, vous pouvez Marquer ce Coup de Théâtre si vous avez au moins un 'Vampire' dans votre Cimetière. Si vous le faites, vous pouvez reprendre un 'Vampire' de votre Cimetière et le placer face visible sous cette carte. Vous pouvez attaquer avec ce 'Vampire' comme s'il était dans votre main, mais il est ensuite retiré du jeu.",
+        "title": "Sépulcre",
+        "number": "08-14"
+    },
+    {
+        "name": "Et Ils Ont Été Séduits Par Le Vampire !",
+        "quote": "\"Je ne comprends pas. Pourquoi les filles pensent-elles qu'elles sont sexy ?\"",
+        "abilities": "Vous pouvez Marquer ce Coup de Théâtre si une attaque 'Vampire' que vous avez lancée a réussi à tuer un Personnage. Vous pouvez immédiatement effectuer une attaque 'Supernatural' 'Vampire' contre le même Film avec 3 fois la Défense de ce Personnage.",
+        "title": "Vampiresse",
+        "number": "08-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien, le vampire s'est transformé en tas de poussière, je suppose que c'est fini !\"",
+        "abilities": "",
+        "title": "Nosferatu",
+        "number": "08-16"
+    },
+
+
+
+
+
+    {
+        "name": "Pom-Pom Girl Nymphomane",
+        "quote": "\"Donne-moi un O ! Donne-moi un O !\nO-O-O-O OUI !\"",
+        "abilities": "Tous les 'Mâles' joués dans le même film gagnent +1 Défense.",
+        "title": "Femme",
+        "number": "09-01"
+    },
+    {
+        "name": "Gros Balourd de Sportif",
+        "quote": "\"Frère ! Passe-moi une bière !\"",
+        "abilities": "Lorsque le Gros Balourd est éliminé, il va au bas du deck, plutôt que dans le Cimetière.",
+        "title": "Jeunesse",
+        "number": "09-02"
+    },
+    {
+        "name": "Étudiante en Sciences",
+        "quote": "\"Comment arrêter cette chose ?\" \"Pourquoi me demandes-tu ?\" \"C'est toi qui as les diplômes, non ?\"",
+        "abilities": "Lorsque l'Étudiante en Sciences quitte le jeu, les 3 cartes du dessus du deck de l'adversaire sont mises dans le Cimetière.",
+        "title": "Petite Amie",
+        "number": "09-03"
+    },
+    {
+        "name": "Harceleur Masqué",
+        "quote": "\"Est-ce une tronçonneuse dans ton pantalon, ou es-tu juste content de me voir ? Oh, c'est une tronçonneuse... AAAAAAAAAH !\"",
+        "abilities": "'Psycho' — N'importe quel Joueur peut jouer des Accessoires 'Arme' pour augmenter l'attaque du Harceleur Masqué gratuitement.",
+        "title": "Étudiante",
+        "number": "09-04"
+    },
+    {
+        "name": "Vampires Suceurs de Sang",
+        "quote": "\"Ce type scintille-t-il ?\" \"Ah, c’est un cliché…\"",
+        "abilities": "Peut être combiné avec une autre attaque 'Vampire'. L'attaque résultante a l'Attaque Combinée et tous les Traits et les Capacités des deux, et si elle réussit, vous pouvez éliminer un Personnage supplémentaire.",
+        "title": "Condamné",
+        "number": "09-05"
+    },
+        {
+            "name": "Zombies Suceurs de Cerveaux",
+            "quote": "\"Ça ne fait qu'un peu mal quand la limace s'enfonce dans ton cerveau…\"",
+            "abilities": "",
+            "title": "Sans-cerveaux",
+            "number": "09-06"
+        },
+    {
+        "name": "Campus Universitaire",
+        "quote": "\"Ce n'est pas le corps étudiant qui me dérange... ce sont tous ces corps étudiants.\"",
+        "abilities": "Peut être combiné avec la \"Maison de Sororité\". Défense = 6 si un Personnage 'Université' est présent.",
+        "title": "Frai",
+        "number": "09-07"
+    },
+    {
+        "name": "Maison de Sororité",
+        "quote": "\"Teehee ! Organisons une rixe aux oreillers en sous-vêtements !\"",
+        "abilities": "Défense = -3 lors des attaques 'Psycho'.",
+        "title": "Adolescent",
+        "number": "09-08"
+    },
+    {
+        "name": "Hache",
+        "quote": "\"Voici Johnny !\"",
+        "abilities": "",
+        "title": "de 50 Pieds",
+        "number": "09-09"
+    },
+    {
+        "name": "Masque",
+        "quote": "\"Nous portons tous un masque à un moment ou à un autre. \" \"Oui, mais le tien est couvert de sang.\"",
+        "abilities": "Le Personnage portant le Masque ne peut pas être ciblé par des cartes Effet Spécial. Peut être joué comme une 'Arme' sur le 'Harceleur Masqué' pour qu'il réussisse automatiquement.",
+        "title": "Noir",
+        "number": "09-10"
+    },
+    {
+        "name": "Trop Stupide pour Vivre",
+        "quote": "\"Tu es tellement stupide que c'est douloureux. Pas pour toi, mais pour ceux qui t'entourent.\"",
+        "abilities": "Élimine un Personnage 'Stupide'.",
+        "title": "Mangeur d'Hommes",
+        "number": "09-11"
+    },
+    {
+        "name": "Seul la Vierge Survit",
+        "quote": "\"N'aie jamais de sexe dans un film d'horreur. JAMAIS.\"",
+        "abilities": "Élimine un 'Mâle' et une 'Femme' NON 'Vierge' dans le même Film.",
+        "title": "Succion",
+        "number": "09-12"
+    },
+    {
+        "name": "Éduquationné",
+        "quote": "\"Moi j'ai un diplôma !\"",
+        "abilities": "Fixez cette carte à un Personnage. Il gagne +2 Défense et le trait 'Intelligent'. Si le Personnage avait le trait 'Stupide', il ne l'a plus.",
+        "title": "Sage",
+        "number": "09-13"
+    },
+    {
+        "name": "Et Ils Ont Effectivement Prêté Attention !",
+        "quote": "\"Attends... on a appris ça dans le cours de la Tropeologie !\"",
+        "abilities": "Vous pouvez Marquer ce Coup de Théâtre si votre Film est attaqué et qu'il contient au moins un Accessoire. Si vous le faites, attachez cette carte à un Accessoire dans votre Film. Sa Défense est maintenant trois fois supérieure.",
+        "title": "Érudit",
+        "number": "09-14"
+    },
+    {
+        "name": "Et la Semaine 'Initiation\nest Devenue Mortelle !",
+        "quote": "\"Je sais pas mec...\" \"Hé, tout le monde le fait !\"",
+        "abilities": "À votre prochain tour, vous pouvez Marquer ce Coup de Théâtre si vous avez au moins 2 Personnages 'Jeune' ou 'Université' dans votre Film. Si vous le faites, vous pouvez lancer une attaque 'Psycho' contre le Film de l'Adversaire, la force de laquelle est égale à la Défense totale des Personnages 'Jeune' et 'Université', y compris toutes les cartes attachées.",
+        "title": "Fraternité",
+        "number": "09-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Eh bien, ils sont réveillés à l'hôpital et il n'y a aucun signe du slasher ; ça doit donc être fini !\"",
+        "abilities": "",
+        "title": "Collégien",
+        "number": "09-16"
+    },
+
+
+
+
+    {
+        "name": "Gamin Gros",
+        "quote": "\"Je n'ai pas besoin d'être rapide, il suffit que…\" \"Ferme-la !\"",
+        "abilities": "'Malchanceux' - Chaque fois qu'un choix doit être fait pour éliminer un Personnage dans ce film, celui-ci doit être choisi en premier.",
+        "title": "Massif",
+        "number": "10-01"
+    },
+    {
+        "name": "Fille Gothique",
+        "quote": "\"Je suis un avec toutes les créatures des ténèbres… Pouah, c'est un insecte ! Enlève-le de moi !\"",
+        "abilities": "Défense = -5 contre les attaques 'Vampire'.",
+        "title": "Gothique",
+        "number": "10-02"
+    },
+    {
+        "name": "Adolescent Désespéré",
+        "quote": "\"J'y crois pas, MAINTENANT c'est mon PANTALON qui me frotte…\"",
+        "abilities": "+1 Défense pour chaque Personnage 'Jeune' 'Femme' dans le même Film.",
+        "title": "Lorgner",
+        "number": "10-03"
+    },
+    {
+        "name": "Sorcières Adolescentes Maléfiques",
+        "quote": "\"Alors, on allume les bougies et on invoque les éléments, puis on arrache le cœur de la victime… Ensuite, on va prendre des lattés, non ?\"",
+        "abilities": "+1 Attaque pour chaque Personnage 'Jeune' dans le Film ciblé.",
+        "title": "Sabot",
+        "number": "10-04"
+    },
+    {
+        "name": "Vampires Adolescents de Quartier",
+        "quote": "\"Vis sans cesse, ne vieillis jamais et pas d'heure de couvre-feu !\"",
+        "abilities": "Gagne +2 Attaque pour chaque carte 'Quartier' dans le Film ciblé.",
+        "title": "Hoods",
+        "number": "10-05"
+    },
+    {
+        "name": "12 000 Rats en Colère",
+        "quote": "\"Il y avait des rats, papa…\" \"Des rats ?\"",
+        "abilities": "'Essaim' - La Défense des Accessoires 'Arme' = 0 contre les 12 000 Rats en Colère.",
+        "title": "Infestation",
+        "number": "10-06"
+    },
+    {
+        "name": "Vélo à 10 Vitesses",
+        "quote": "\"Est-ce que l'une des vitesses s'appelle 'partez d'ici' ?\"",
+        "abilities": "Défense = 4 sur un Personnage 'Jeune'.",
+        "title": "Roule",
+        "number": "10-07"
+    },
+    {
+        "name": "Planche à Roulettes",
+        "quote": "\"Goûte au plance…\" BAM ! \"… espèce de bon à rien…\" BAM ! \"… mort-vivant ! !\" BAM !",
+        "abilities": "Défaussez la Planche à Roulettes du jeu pour gagner +5 DS pour la durée de l'attaque actuelle.",
+        "title": "Grinde",
+        "number": "10-08"
+    },
+    {
+        "name": "Centre Commercial",
+        "quote": "\"Est-ce que ce cerveau me fait paraître gros ?\"",
+        "abilities": "Les attaques de 'Zombie' réussissent toujours au Centre Commercial.",
+        "title": "Magasin",
+        "number": "10-09"
+    },
+    {
+        "name": "Grand Magasin",
+        "quote": "\"Attention, acheteurs zombies !\"",
+        "abilities": "Une fois par tour, pour 3 Pop-corn, vous pouvez prendre n'importe quel Accessoire de votre Cimetière et le remettre en jeu dans votre film.",
+        "title": "Réduction",
+        "number": "10-10"
+    },
+    {
+        "name": "Argent de Poche",
+        "quote": "\"Donne-moi ! Donne-moi !\"",
+        "abilities": "Piocher une carte pour chaque Personnage 'Jeune' dans votre Film.",
+        "title": "Avarice",
+        "number": "10-11"
+    },
+    {
+        "name": "Double Séance de Monstrueux",
+        "quote": "\"At the late night, double feature picture show...\"",
+        "abilities": "Vous pouvez combiner une carte de Créature de votre main pour rejoindre l'attaque actuelle de 'Monstre', 'Surnaturel' ou 'Vampire' sans frais supplémentaires. Les Traits et les Capacités des deux s'appliquent, et si elle réussit, vous pouvez éliminer un Personnage supplémentaire.",
+        "title": "Double",
+        "number": "10-12"
+    },
+    {
+        "name": "Coup Dans l'Entrejambe",
+        "quote": "\"Ils ne se battent plus autant.\"",
+        "abilities": "Ajouter +5 DS pour la durée de l'attaque actuelle OU arrêter une attaque 'Psycho'.",
+        "title": "Coup",
+        "number": "10-13"
+    },
+    {
+        "name": "Et Ils Étaient Secrètement\nMords!",
+        "quote": "\"Billy ! Tu aurais dû nous le dire !\"",
+        "abilities": "Lorsque votre Personnage ayant la Défense la plus élevée est éliminé, vous pouvez Marquer ce Coup de Théâtre. Si vous le faites, vous pouvez immédiatement Marquer leur Défense imprimée, et attaquer le Film du Joueur qui les a tués avec une attaque 'Supernatural' 'Zombie' avec une force de 3x la Défense de ce Personnage, plus les bonus de toutes les cartes attachées qu'il avait lorsqu'il est mort.",
+        "title": "Suppurant",
+        "number": "10-14"
+    },
+    {
+        "name": "And the Monsters Started\nA Turf War!",
+        "quote": "\"It's a brand war!\"",
+        "abilities": "If your Film takes place in a 'Store' and you have a Creature in your hand, when you are attacked, you may Mark this Plot Twist. If you do, reveal a Creature from your hand. Add the Creature's Strength to your Film's Defense for the duration of the attack. After the attack resolves, discard the Creature.",
+        "title": "Vente",
+        "number": "10-15"
+    },
+    {
+        "name": "Générique de Fin",
+        "quote": "\"Bon, l'hélicoptère a décollé du toit, laissant les zombies derrière lui, je suppose que c'est fini !\"",
+        "abilities": "",
+        "title": "Centre Commercial",
+        "number": "10-16"
+    }
+]

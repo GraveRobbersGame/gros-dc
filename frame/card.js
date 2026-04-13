@@ -695,7 +695,7 @@ update() {
         align : 'center',
         fontFamily : 'Montserrat', 
         fontSize: 10, 
-        lineHeight: 10,
+        lineHeight: 10.5,
         fill : fontColor,
         fontWeight:400,
         dropShadow:false, //Keep false here for calculating size, true later
@@ -731,7 +731,7 @@ update() {
     while ( (h2 + minSpace) > h0) {
         //Adjust abilities down
         abilitiesStyle.fontSize -= .1;
-        abilitiesStyle.lineHeight -= .1;
+        abilitiesStyle.lineHeight = abilitiesStyle.fontSize * 1.05;
         //Height of abilities
         h2 = (this.abilities.length > 0) ? abilities.height : 0;
     }
